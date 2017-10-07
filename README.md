@@ -1,4 +1,4 @@
-# StReaMiNg TeKniVaL
+# WebTeK StReaMiNg TeKniVaL
 
 The __WebTeK__ is the most popular free tekno streaming festival with live dj sessions from all over the world. 
 

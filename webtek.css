@@ -4,10 +4,7 @@ body {
 	color: #fff;
   background: url('giphy-tumblr.gif');
 }
-h1 {
-	font-family: 'Monofett', cursive;
-	font-weight: 300;
-	font-size: 48px;
+img {
 	text-align: center;
 	position: absolute;
 	top: 35%;

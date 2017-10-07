@@ -4,9 +4,7 @@ body {
 	color: #fff;
   background: url('giphy-tumblr.gif');
 	text-align: center;
-}
-.logo {
-	text-align: center;
+  margin: 0 auto;
 }
 a {
 	color: white;

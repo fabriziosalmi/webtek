@@ -42,10 +42,12 @@ a {
 	right: 0;
 	left: 0;
 }
+.clip-circle {
+  clip-path: circle(128px at center);
+}
 .blink_me {
   animation: blinker 0.2s linear infinite;
 }
-
 @keyframes blinker {
   50% { opacity: 0; }
 }

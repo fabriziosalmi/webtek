@@ -6,8 +6,8 @@ This event is managed and operated as is by [Fanat3k Radio](https://www.facebook
 
 WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 
-- [WebTeK website](https://webtek.me/)
-- [WebTeK](https://www.facebook.com/Worldwide.Streaming.Teknival/)
+- [WebTeK website](https://webtek.me/) (hosted on Github.io)
+- [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
 ## Next festival
 

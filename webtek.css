@@ -2,7 +2,7 @@ body {
 	width: 100wh;
 	height: 90vh;
 	color: #fff;
-  background: url('webtek_particles.gif');
+  background: url('giphy-tumblr.gif');
 }
 h1 {
 	font-family: 'Rock Salt', cursive;
@@ -46,6 +46,6 @@ a {
   animation: blinker 0.2s linear infinite;
 }
 
-@keyframes blinker {  
+@keyframes blinker {
   50% { opacity: 0; }
 }

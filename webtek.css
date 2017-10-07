@@ -5,6 +5,7 @@ body {
   background: url('webtek_particles.gif');
 	text-align: center;
   margin: 0 auto;
+	line-height: 25px;
 }
 a {
 	color: white;

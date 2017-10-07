@@ -3,6 +3,7 @@ body {
 	height: 90vh;
 	color: #fff;
   background: url('giphy-tumblr.gif');
+	text-align: center;
 }
 .logo {
 	text-align: center;

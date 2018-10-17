@@ -32,6 +32,4 @@ WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 
 ## Share and support
 
-![WebTek flyer](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/s720x720/19247895_10154920439656379_4750200589820443589_n.jpg?oh=bf093b2e059eb4638b996e79e57bee58&oe=5A452EFB)
-
 _.:eNjOy the MuSiC:._

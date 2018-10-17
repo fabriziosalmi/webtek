@@ -11,9 +11,17 @@ WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next festival
+## Next festival ==> WXV
 
 - [WebTeK 15 → 01-?? December 2018](TBD)
+
+Tuned by
+
+- [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
+- [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
+- [HarderSoundRadio](http://www.hardersound.net)
+
 
 ## Videos
 

@@ -6,15 +6,16 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 
-- [WebTeK website](https://webtek.me/)
+- [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
 ## Next festival
 
-- [WebTeK 14 → 20-22 October 2017](https://www.facebook.com/events/1775114982505491/)
+- [WebTeK 15 → 01-?? December 2018](TBD)
 
 ## Videos
 
+- [WebTeK 14](https://www.facebook.com/events/1775114982505491/)
 - [WebTek 13](https://www.google.it/search?q=webtek+13&safe=active&source=lnms&tbm=vid&sa=X)
 - [WebTek 12](https://www.google.it/search?q=webtek+12&safe=active&source=lnms&tbm=vid&sa=X)
 - [WebTek 11](https://www.google.it/search?q=webtek+11&safe=active&source=lnms&tbm=vid&sa=X)

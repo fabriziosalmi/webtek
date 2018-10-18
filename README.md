@@ -13,7 +13,7 @@ WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 
 ## Next festival ==> WXV
 
-- [WebTeK 15 → 01-?? December 2018](TBD)
+- [WebTeK 15 → 01-31 December 2018](https://webtek.live)
 
 Tuned by
 

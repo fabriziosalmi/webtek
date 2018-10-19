@@ -20,6 +20,7 @@ Tuned by
 - [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
 - [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
+- [BPM Resistance](https://www.facebook.com/BPMresistance/)
 - [HarderSoundRadio](http://www.hardersound.net)
 
 

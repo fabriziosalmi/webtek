@@ -47,7 +47,7 @@ Tuned by
 
 ## Android
 
-- [Free Sound](https://play.google.com/store/apps/details?id=org.freeundergroundtekno.sound)
+- [Free Sounds](https://play.google.com/store/apps/details?id=org.freeundergroundtekno.sound)
 
 ## Share and support
 

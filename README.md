@@ -11,7 +11,7 @@ WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next festival ==> WXV
+## Next festival → WXV
 
 - [WebTeK 15 → 01-31 December 2018](https://webtek.live)
 

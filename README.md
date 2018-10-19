@@ -25,8 +25,6 @@ Tuned by
 
 ## Audio
 
-Upload up to 10GB of your own music for free.
-
 - [Free Sounds by Free Underground Tekno](https://sound.freeundergroundtekno.org/)
 - [FreeTeknoMusic.org archive](https://freeteknomusic.org/)
 
@@ -47,7 +45,7 @@ Upload up to 10GB of your own music for free.
 - [WebTek 2](https://www.google.it/search?q=webtek+2&safe=active&source=lnms&tbm=vid&sa=X)
 - [WebTek](https://www.google.it/search?q=webtek+2010&safe=active&source=lnms&tbm=vid&sa=X)
 
-## Android app
+## Android
 
 - [Free Sound](https://play.google.com/store/apps/details?id=org.freeundergroundtekno.sound)
 

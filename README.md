@@ -27,7 +27,8 @@ Tuned by
 
 Upload up to 10GB of your own music for free.
 
-- [Free Sounds](https://sound.freeundergroundtekno.org/)
+- [Free Sounds by Free Underground Tekno](https://sound.freeundergroundtekno.org/)
+- [FreeTeknoMusic.org archive](https://freeteknomusic.org/)
 
 ## Video
 

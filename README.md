@@ -4,7 +4,7 @@ The __WebTeK__ is the most popular free tekno streaming festival with live dj se
 
 ![WebTeK logo](https://github.com/fabriziosalmi/webtek/blob/master/webtek_logo.png)
 
-This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/) and a lot of friends since 2010.
+This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/) and friends since 2010.
 
 WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 

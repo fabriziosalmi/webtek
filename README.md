@@ -2,13 +2,10 @@
 
 ![TravisCI](https://travis-ci.org/fabriziosalmi/webtek.svg?branch=master) ![Sonarcloud.io](https://sonarcloud.io/api/project_badges/measure?project=fabriziosalmi_webtek&metric=alert_status)
 
-The __WebTeK__ is the most popular free tekno streaming festival with live dj sessions from all over the world. 
-
-![WebTeK logo](https://raw.githubusercontent.com/fabriziosalmi/webtek/master/img/webtek_header_fb.png)
+The __WebTeK__ is the most popular free tekno streaming festival with live dj sessions from all over the world.
+*WebTeK is 100% free and open to all artists, sounds, hackers and aliens!*
 
 This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/) and friends since 2010.
-
-WebTeK is 100% free and open to all artists, sounds, hackers and aliens!
 
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)

@@ -1,6 +1,6 @@
 # WebTeK StReaMiNg TeKniVaL
 
-![Sonarcloud.io](https://sonarcloud.io/api/project_badges/measure?project=fabriziosalmi_webtek&metric=alert_status)
+![Sonarcloud.io](https://sonarcloud.io/api/project_badges/measure?project=fabriziosalmi_webtek&metric=alert_status) ![TravisCI](https://travis-ci.org/fabriziosalmi/webtek.svg?branch=master)
 
 The __WebTeK__ is the most popular free tekno streaming festival with live dj sessions from all over the world. 
 

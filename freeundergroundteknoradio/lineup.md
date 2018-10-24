@@ -16,10 +16,10 @@
 - [MGL](https://www.facebook.com/mgl32/?ref=br_rs)
 - [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
-- Undermatic [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- Sundreeno [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- fab [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- Sbume [Circuit Gang](https://www.facebook.com/Circuitgang/)
+- [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
+- [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
+- [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
+- [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 
 more to come..
 

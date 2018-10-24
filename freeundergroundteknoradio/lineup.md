@@ -2,7 +2,8 @@
 
 - for any inquiry just write me on [FB](https://www.facebook.com/streaming.teknival) or [GMail](fabrizio.salmi@gmail.com)
 - dates and schedules TBD
-- DJ/live schedule: available any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
+- sessions schedule: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
+- where: anywhere (your room, a secret TAZ, an asso.., a friendly place and everywhere u can play and stream)
 
 ## Events
 

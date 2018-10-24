@@ -23,11 +23,11 @@
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Sushi](https://soundcloud.com/sushi_hc) [Circuit Gang](https://www.facebook.com/Circuitgang/)
+- [Wizzy](https://www.facebook.com/wizzy.tkw/) [TKW](https://www.facebook.com/woodoosoundsystem/)
 
 TBC
 
 - Bisturi (HZD)
-- Wizzy (TKW)
 - Kevin (AA)
 - Davidone (Blackqirex)
 - Italo

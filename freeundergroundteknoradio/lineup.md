@@ -28,7 +28,7 @@ TBC
 - Robyuankerobi (CircuitGang)
 - Wizzy (TKW)
 - Kevin (AA)
-- Davidone (Blaqirex)
+- Davidone (Blackqirex)
 - more to confirm..
 
 

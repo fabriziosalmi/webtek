@@ -30,7 +30,7 @@
 TBC
 
 - Bisturi (HZD)
-- Kevin (AA)
+- Manito (Newspecies)
 - Davidone (Blackqirex)
 - Italo
 - more to confirm..

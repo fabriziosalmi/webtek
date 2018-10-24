@@ -22,6 +22,7 @@
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
+- [Sushi](https://soundcloud.com/sushi_hc) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 
 TBC
 

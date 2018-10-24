@@ -15,20 +15,20 @@
 - [MGL](https://www.facebook.com/mgl32/)
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/)
-- Manito (Newspecies)
+- Manito (Newspecies) TBC
 
 **DEC 9** hosted by *EMS Teknomotive* TBC
 
 - [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
-- Bisturi (HZD)
+- Bisturi (HZD) TBC
 
 **DEC 31** hosted by *Space Invaders and friends* TBC
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 
-**DEC ??** self hosted and/or TBD
+**DEC ??** self hosted TBD/TBC
 
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)

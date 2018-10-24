@@ -52,6 +52,10 @@ Tuned by
 
 - [Free Sounds](https://play.google.com/store/apps/details?id=org.freeundergroundtekno.sound)
 
+## Support
+
+- [Eventbrite](https://www.eventbrite.com/e/webtek-15-streaming-teknival-tickets-51754978534)
+
 ## Share and support
 
 _.:eNjOy the MuSiC:._

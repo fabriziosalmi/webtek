@@ -9,7 +9,7 @@
 
 ## Events
 
-- **DEC 2** hosted by *Casa Brancaleone* (Milano) TBC
+**DEC 2** hosted by *Casa Brancaleone* (Milano) TBC
 
 - [Shockraver](https://www.facebook.com/shockraver23/)
 - [MGL](https://www.facebook.com/mgl32/)
@@ -17,18 +17,18 @@
 - [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/)
 - Manito (Newspecies)
 
-- **DEC 9** hosted by *EMS Teknomotive* TBC
+**DEC 9** hosted by *EMS Teknomotive* TBC
 
 - [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - Bisturi (HZD)
 
-- **DEC 31** hosted by *Space Invaders and friends* TBC
+**DEC 31** hosted by *Space Invaders and friends* TBC
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 
-- DEC ??: self hosted and/or TBD
+**DEC ??** self hosted and/or TBD
 
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)

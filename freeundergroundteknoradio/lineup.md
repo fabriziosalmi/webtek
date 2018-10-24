@@ -21,7 +21,13 @@
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 
-more to come..
+TBC
+
+- Bisturi (HZD)
+- Robyuankerobi (CircuitGang)
+- Wizzy (TKW)
+- Kevin (AA)
+- more to confirm..
 
 
 

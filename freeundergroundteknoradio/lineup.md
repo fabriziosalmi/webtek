@@ -1,6 +1,6 @@
 # Free Underground Tekno @ WebTeK 
 
-**WEBTEK 15: https://www.facebook.com/events/932163350504838/** *please share this link* ❤️
+**WEBTEK 15: https://www.facebook.com/events/932163350504838/** *please share* ❤️
 
 - for any inquiry just write me on [FB](https://www.facebook.com/streaming.teknival) or [GMail](fabrizio.salmi@gmail.com)
 - dates and schedules TBD

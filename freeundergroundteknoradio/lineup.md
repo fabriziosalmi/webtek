@@ -4,6 +4,12 @@
 - dates and schedules TBD
 - DJ/live schedule: available any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
 
+## Events
+
+- DEC 2: hosted by *Casa Brancaleone* (Milano) TBD
+- DEC 9: hosted by *Teknomotive* TBD
+- DEC 31: hosted by *Space Invaders and friends* TBD
+
 ## Artists
 
 - [Shockraver](https://www.facebook.com/shockraver23/)

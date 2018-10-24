@@ -6,10 +6,10 @@
 
 ## Artists
 
-- [Shockraver](https://www.facebook.com/shockraver23/?ref=br_rs)
+- [Shockraver](https://www.facebook.com/shockraver23/)
 - [MGL](https://www.facebook.com/mgl32/?ref=br_rs)
-- [EMS Teknomotive](https://www.facebook.com/emsteknomotive/?ref=br_rs)
-- [Molotov Teknomotive](https://www.facebook.com/molotovteknomotive/?ref=br_rs)
+- [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
+- [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - Undermatic [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - Sundreeno [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - fab [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)

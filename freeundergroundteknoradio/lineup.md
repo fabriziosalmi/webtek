@@ -3,9 +3,9 @@
 **WEBTEK 15: https://www.facebook.com/events/932163350504838/** *please share* ❤️
 
 - **for any inquiry** just write me on [FB](https://www.facebook.com/streaming.teknival) / [GMail](fabrizio.salmi@gmail.com) or read the [wiki](https://github.com/fabriziosalmi/webtek/wiki)
-- **dates and sessions** TBD
-- **schedule your session**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
-- **where**: anywhere (your room, a secret TAZ, an asso.., a friendly place and everywhere u can play and stream)
+- **Free Underground Tekno Radio dates and sessions** TBD
+- **self hosted schedule**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
+- **where??**: anywhere (your room, a secret TAZ, an asso.., a friendly place and everywhere u can play and stream)
 - **french people** you can reserve a session slot on Fanat3k Radio or HappyFaceFamily, just write them!
 
 ## Events

@@ -29,6 +29,7 @@ TBC
 - Wizzy (TKW)
 - Kevin (AA)
 - Davidone (Blackqirex)
+- Italo
 - more to confirm..
 
 

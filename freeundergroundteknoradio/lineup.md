@@ -8,6 +8,16 @@
 - **where??**: anywhere (your room, a secret TAZ, an asso.., a friendly place and everywhere u can play and stream)
 - **french people** you can reserve a session slot on Fanat3k Radio or HappyFaceFamily, just write them!
 
+## Free Underground Tekno streaming platforms
+
+- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
+- [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [Twitch](https://www,twitch.tv/freeundergroundtekno/)
+- [Periscope](https://pscp.tv/freeundergroundtekno)
+- [Stream.me](https://www.stream.me/freetekno23)
+- [YouNow](https://www.younow.tv/FreeUndergroundTekno/)
+- [Mixer](https://mixer.com/freetekno23)
+
 ## Events
 
 **DEC 2** *secret location* TBC

@@ -33,21 +33,20 @@
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - Bisturi (HZD) TBC
 
-**DEC 31** hosted by *Space Invaders and friends* TBC
+**DEC 31** secret location TBC
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - more to be confirmed ^_^
 
-**DEC ??** self hosted TBD/TBC
+**DEC ??** self hosted TBC
 
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Sushi](https://soundcloud.com/sushi_hc) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Wizzy](https://www.facebook.com/wizzy.tkw/) [TKW](https://www.facebook.com/woodoosoundsystem/)
 - Italo TBC
-- Andrea Mechanica TBC
 - Fuckin'Frankie TBC
 - Shivo TBC
 - Pablito El Drito special interview TBC

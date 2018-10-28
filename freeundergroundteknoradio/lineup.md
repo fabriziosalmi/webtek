@@ -15,7 +15,6 @@
 - [Twitch](https://www.twitch.tv/freeundergroundtekno/)
 - [Periscope](https://pscp.tv/freeundergroundtekno)
 - [Stream.me](https://www.stream.me/freetekno23)
-- [YouNow](https://www.younow.tv/FreeUndergroundTekno/)
 - [Mixer](https://mixer.com/freetekno23)
 
 ## Events

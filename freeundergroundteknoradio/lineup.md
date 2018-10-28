@@ -12,7 +12,7 @@
 
 - [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
 - [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
-- [Twitch](https://www,twitch.tv/freeundergroundtekno/)
+- [Twitch](https://www.twitch.tv/freeundergroundtekno/)
 - [Periscope](https://pscp.tv/freeundergroundtekno)
 - [Stream.me](https://www.stream.me/freetekno23)
 - [YouNow](https://www.younow.tv/FreeUndergroundTekno/)

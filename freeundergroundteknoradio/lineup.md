@@ -31,7 +31,8 @@
 - [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- Bisturi (HZD) TBC
+- DOOM23
+- TEKDOG aka BRUTAL DOG
 
 **DEC 31** secret location TBC
 

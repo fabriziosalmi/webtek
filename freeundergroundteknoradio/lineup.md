@@ -7,15 +7,6 @@
 - **self hosted schedule**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
 - **where??**: anywhere (your room, a secret place, a TAZ, an asso.., a friendly place and everywhere u can play and stream)
 
-## Free Underground Tekno streaming platforms
-
-- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
-- [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
-- [Twitch](https://www.twitch.tv/freeundergroundtekno/)
-- [Periscope](https://pscp.tv/freeundergroundtekno)
-- [Stream.me](https://www.stream.me/freetekno23)
-- [Mixer](https://mixer.com/freetekno23)
-
 ## Events
 
 **DEC 1** hosted by [RadioCittàAperta](http://www.radiocittaperta.it/)
@@ -60,5 +51,13 @@
 - Shivo TBC
 - more to be confirmed ^_^
 
+## Streaming platforms
+
+- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
+- [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [Twitch](https://www.twitch.tv/freeundergroundtekno/)
+- [Periscope](https://pscp.tv/freeundergroundtekno)
+- [Stream.me](https://www.stream.me/freetekno23)
+- [Mixer](https://mixer.com/freetekno23)
 
 

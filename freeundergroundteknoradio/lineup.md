@@ -53,11 +53,15 @@
 
 ## Streaming platforms
 
-- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
+To watch the events you can use the following links:
+
 - [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
 - [Twitch](https://www.twitch.tv/freeundergroundtekno/)
 - [Periscope](https://pscp.tv/freeundergroundtekno)
 - [Stream.me](https://www.stream.me/freetekno23)
 - [Mixer](https://mixer.com/freetekno23)
 
+Maybe some events will be shared only to [Free Underground Tekno Facebook page](https://www.facebook.com/Free.Underground.Tekno.Radio/). 
+Our page is public: no account required, no TAZ info ^_^
 

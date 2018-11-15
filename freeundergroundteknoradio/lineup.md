@@ -19,7 +19,7 @@
 
 ## Events
 
-**DEC 1** hosted by RCA LAB
+**DEC 1** hosted by [RadioCittàAperta](http://www.radiocittaperta.it/)
 
 - [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
 - [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books

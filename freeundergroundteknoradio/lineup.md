@@ -24,14 +24,14 @@
 - [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
 - [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books
 
-**DEC 2** *secret location* TBC
+**DEC 2** *secret location*
 
 - [Shockraver](https://www.facebook.com/shockraver23/)
 - [MGL](https://www.facebook.com/mgl32/)
 - [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/)
 - Manito (Newspecies) TBC
 
-**DEC 9** hosted by *EMS Teknomotive* TBC
+**DEC 9** hosted by *EMS Teknomotive*
 
 - [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
 - [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
@@ -39,14 +39,18 @@
 - DOOM23
 - TEKDOG aka BRUTAL DOG
 
+**DEC 9** *secret location*
+
+- BrigaDajeForte vs Vinilika crew
+
 **DEC 31** secret location TBC
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [p4k1d3rm](https://www.facebook.com/P4KID3RM/) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- more to be confirmed ^_^
+- ..and friends ^_^
 
-**DEC ??** self hosted TBC
+**DEC ??** TBC
 
 - [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
 - [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)

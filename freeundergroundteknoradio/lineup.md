@@ -5,7 +5,9 @@
 - **for any inquiry** just write me on [FB](https://www.facebook.com/streaming.teknival) / [GMail](fabrizio.salmi@gmail.com) or read the [wiki](https://github.com/fabriziosalmi/webtek/wiki)
 - **Free Underground Tekno Radio dates and sessions** TBD
 - **self hosted schedule**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
-- **where??**: anywhere (your room, a secret place, a TAZ, an asso.., a friendly place and everywhere u can play and stream)
+- **where??**: anywhere (room, secret location, TAZ, asso.., a friendly place where u can play and broadcast/stream)
+- **how??**: camera is not required, we want music.. visuals are welcome anyway :DDD
+
 
 ## Events
 

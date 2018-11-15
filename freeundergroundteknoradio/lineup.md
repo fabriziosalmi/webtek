@@ -19,6 +19,11 @@
 
 ## Events
 
+**DEC 1** hosted by RCA LAB
+
+- [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
+- [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books
+
 **DEC 2** *secret location* TBC
 
 - [Shockraver](https://www.facebook.com/shockraver23/)
@@ -50,7 +55,6 @@
 - Italo TBC
 - Fuckin'Frankie TBC
 - Shivo TBC
-- Pablito El Drito special interview TBC
 - more to be confirmed ^_^
 
 

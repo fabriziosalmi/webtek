@@ -6,7 +6,6 @@
 - **Free Underground Tekno Radio dates and sessions** TBD
 - **self hosted schedule**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
 - **where??**: anywhere (your room, a secret place, a TAZ, an asso.., a friendly place and everywhere u can play and stream)
-- **french people** you can reserve a session slot on Fanat3k Radio or HappyFaceFamily, just write them!
 
 ## Free Underground Tekno streaming platforms
 

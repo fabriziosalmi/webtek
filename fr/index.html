@@ -1,131 +1,107 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <title>WebTek 14 - Fanat3k Radio</title>
-        <meta charset="UTF-8">
-		<meta name="language" content="fr-FR" />
-		<meta name="description" content="The WebTeK is the most popular free tekno streaming festival with live dj sessions from all over the world." />
-		<meta name="keywords" content="webtek,webtek 15,teknival,streaming,tekno,underground,tribe,fanat3k,fanat3kradio" />
-		<meta name="robots" content="all" />
-		<meta name="revisit-after" content="1" />
-		<meta name="author" content="fanat3kradio" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta property="og:type" content="website">
-		<meta property="fb:app_id" content="409757585815723">
-		<meta property="og:title" content="WEBTEK STREAMING TEKNIVAL">
-		<meta property="og:description" content="WebTeK 15: open to all artists, sounds, hackers and aliens.">
-		<meta property="og:url" content="https://webtek.live">
-		<meta property="og:image" content="https://webtek.live/fb_prof.png">
-        <link href="css/adds.css" rel="stylesheet" type="text/css"/>
-        <link href="css/simple-grid.min.css" rel="stylesheet" type="text/css"/>
+<html lang="en">
 
-    </head>
-    <body>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40272154-39"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-40272154-39');
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>WebTek XV - Fanat3k Radio</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/full-width-pics.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+  </head>
+
+  <body class="bg-black">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-black bg-black fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#"><img class="img-responsive" src="imgs/logo_ftk_300.png" alt="Fanat3k Radio" style="max-height:30px!important" /></a>
+        
+        <button type="button" class="btn btn-dark" data-toggle="modal" data-target="#LineUp">Line Up</button>
+        
+
+    </nav>
+
+    <section class="py-0">
+      <div class="container-full">
+
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<div class="embed-responsive embed-responsive-21by9" id="alivestream"></div>
+<script type="text/javascript">
+  new Twitch.Embed("alivestream", {
+    width: '100%',
+    height: '100%',
+    channel: "ftkradio"
+  });
 </script>
-        <div class="container">
-            <div class="row">
-                <div class="col-10">
-                    <img src="picts/wt14.png" alt="webtek 14"/>
-                </div>
-                <div class="col-2 smallH">
-                    <button id="myBtn">Line Up</button>
-                    <div id="myModal" class="modal">
-                        <div class="modal-content">
-                            <span class="close">&times;</span>
-                            <center><h2WebTek 14 - Fanat3k Radio Line Up</h2></center>
-                            <h4>Vendredi 20/10</h4>
-                            <p>15h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;17h00  StevenShaman ( INFRABASK/ Psy Underground FreQuency )</p>  
-                            <p><p>17h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;18h00 </p>
-                            <p><p>18h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;19h30 Cocheese (Anarkpsy/Psy underground frequency)</p>
-                            <p>19h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;22h30 Muzik'All</p>
-                            <p>22h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;00h00 Redge (23h23)</p>
-                            <h4>Samedi 21/10</h4>
-                            <p>00h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;1h30 Belka (Tawa Records)</p> 
-                            <p>01h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;03h00 Cortex 057  (No MaD)</p>
-                            <p>03h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;09h00 Kommando Landais & les Z'Irradiés</p>
-                            <p>09h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;10h30 Jacky (Nox Family)</p>
-                            <p>10h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;12h00 Krimshok (VNR/Psykologik/Protonik)</p>
-                            <p>12h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;13h30 Desoterik (Teknosquat Network) [De]</p>
-                            <p>13h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;16h30 Family Smile</p>
-                            <p>16h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;22h30 Dj Mohm/Cali/Zef/Dédé Vagabond  (Aléatoire Sound/23h23/O2F)</p>
-                            <p>22h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;00h00 MGL & KENO (AcidParkMilano) [It]</p>
-                            <h4>Dimanche 22/10</h4>
-                            <p>00h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;01h30 Farfaday CCF</p>
-                            <p>01h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;03h00 Kleimein (LUNATIK ARMADA/KLM RECORDS)</p>
-                            <p>03h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;04h30 Hzerty</p>
-                            <p>04h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;06h00 Abtuop</p>
-                            <p>06h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;07h30 </p>
-                            <p>07h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;09h00 Nomebo (Kezako)</p>
-                            <p>09h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;10h30 Josy (FullVibes)</p>
-                            <p>10h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;12h00 Osmosis</p>
-                            <p>12h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;13h30 Polux (Les Enfants Du Son)</p>
-                            <p>13h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;15h00 Ecran 2D (OSK)</p>
-                            <p>15h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;16h30 Ratus</p>
-                            <p>16h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;18h00 Dj Kat (Tacotek)</p>
-                            <p>18h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;19h30 MB Smart Media (PST / M@ngtoncerveau)</p>
-                            <p>19h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;21h00 Assolm (TAP KOD)</p>
-                            <p>21h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;22h30 Airbass (T3KNOLIBR3 Prod)</p>
-                            <p>22h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;00h00 WEEDJET wawa resonnance (REEK)</p> 
-                            <h4>Lundi 23/1</h4>
-                            <p>00h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;01h30 Anarkya (23h23/Tacotek)</p>
-                            <p>01h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;03h00 Conde Nagui 23 (Matrak Crew/DigitalTek 23) [Ar]</p>
-                            <p>03h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;04h30 Theorem.23 (Tekno 23 des collines)</p>
-                        </div>
-                    </div> 
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-8">
-                    <div class="iframe-responsive-wrapper">
-                        <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
 
-                        <script src= "http://player.twitch.tv/js/embed/v1.js"></script>
-                        <div id="twtv"></div>
-                        <script type="text/javascript">
-                                var options = {
-                                        width: 1280,
-                                        height: 720,
-                                        channel: "ftkradio"
-                                };
-                                var player = new Twitch.Player("twtv", options);
-                                player.setVolume(0.8);
-                        </script>
+     </div>
+    </section>
 
 
-                    </div>
-                </div>
-                <div class="col-4">
-                    <div class="iframe-responsive-wrapper">
-                        <img class="iframe-chat" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>        
-                        <iframe frameborder="0" 
-                                scrolling="no" 
-                                id="ftkradio" 
-                                src="http://www.twitch.tv/ftkradio/chat" 
-                                height="510" 
-                                width="420">
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <img src="picts/wt14.png" alt="webtek 14"/>
-                </div>
-            </div>
-        </div>
+    <!-- Footer -->
+    <footer class="py-5 bg-black">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyleft <span class="copyleft"></span> Fanat3k Radio</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+<div class="modal" id="LineUp">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Line Up WebTek XV</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        
+<p class="lead">Samedi 01 Décembre 2018</p>
+<ul>
+<li>10h30&nbsp;&rarr;&nbsp;13h30 Anarkya (23h23/Tacotek Records)</li>
+<li>13h30&nbsp;&rarr;&nbsp;15h00 StevenShaman (Infrabask)</li>
+<li>15h00&nbsp;&rarr;&nbsp;16h30 Haryou Sirus Lab (CCF/PST)</li>
+<li>16h30&nbsp;&rarr;&nbsp;18h00 Dj Kat (Tacotek)</li>
+<li>18h00&nbsp;&rarr;&nbsp;01h00 (Assolm/Airbass/Acydub/Weedjet/SRV/Gui-Two)</li>
+</ul>
+<p class="lead">Dimanche 02 Décembre 2018</p>
+<ul>
+<li>01h00&nbsp;&rarr;&nbsp;11h00 Aléatoire Sound/23h23</li>
+<li>11h00&nbsp;&rarr;&nbsp;12h30 Ecran 2D (Cymatik Crew)</li>
+<li>12h30&nbsp;&rarr;&nbsp;14h00 Hak Irah (B.a.m. Records)</li>
+<li>14h00&nbsp;&rarr;&nbsp;15h30 Delikatess (Vie Tes Rêves/wk/oniroblaste/Amazone exp)</li>
+<li>15h30&nbsp;&rarr;&nbsp;17h30 OD</li>
+<li>17h30&nbsp;&rarr;&nbsp;19h00 Osmosis</li>
+<li>19h00&nbsp;&rarr;&nbsp;20h30 Cocheese (Anarkpsy /Infrabask/Psy underground frequency)</li>
+<li>20h30&nbsp;&rarr;&nbsp;22h00 Noar (L.S.D.F krew)</li>
+<li>22h00&nbsp;&rarr;&nbsp;23h30 Metalloïde (Produc'Sounds)</li>
+<li>23h30&nbsp;&rarr;&nbsp;01h00 Naglfar BZT (Z'irradiés)</li>
+</ul>
+        
+      </div>
 
 
-    </body>
-    <script src="js/scr.js" type="text/javascript"></script>
+    </div>
+  </div>
+</div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
 </html>

@@ -1,4 +1,6 @@
-# Streaming howto
+# Streaming guide
+
+Free Underground Tekno streaming channels: Facebook, YouTube, Periscope, Twitch, Mixer, Stream.me
 
 ## OBS Studio
 

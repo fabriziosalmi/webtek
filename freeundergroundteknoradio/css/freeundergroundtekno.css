@@ -3,6 +3,10 @@ body {
     background-color: #000;
 }
 
+.h1 {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
 a:hover {
     color: yellow;
     text-decoration: none;

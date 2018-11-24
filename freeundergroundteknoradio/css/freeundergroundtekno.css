@@ -3,6 +3,11 @@ body {
     background-color: #000;
 }
 
+a:hover {
+    color: yellow;
+    text-decoration: none;
+}
+
 .h3, h3 {
     font-size: 1.2rem;
     font-weight: 800;

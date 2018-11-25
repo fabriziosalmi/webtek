@@ -24,3 +24,25 @@ a:hover {
 .centered {
     text-align: center;
 }
+
+ @-webkit-keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }
+  @-moz-keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }
+  @keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }

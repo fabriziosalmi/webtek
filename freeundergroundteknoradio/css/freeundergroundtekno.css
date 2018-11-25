@@ -20,3 +20,7 @@ a:hover {
 .container-fluid {
     background-color: black;
 }
+
+.centered {
+    text-align: center;
+}

@@ -46,3 +46,9 @@ a:hover {
     99% { background-color: #000; }
     100% { background-color: #fff; }
   }
+
+.strobo {
+  -webkit-animation: argh-my-eyes 0.23s infinite;
+  -moz-animation:    argh-my-eyes 0.23s infinite;
+  animation:         argh-my-eyes 0.23s infinite;
+}

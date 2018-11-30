@@ -21,6 +21,7 @@ Tuned by
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [BPM Resistance](https://www.facebook.com/BPMresistance/)
 - [HarderSoundRadio](http://www.hardersound.net)
+- [Freakbeats TeknoRadio](https://www.facebook.com/freakbeatsteknoradio/)
 
 ## Images
 

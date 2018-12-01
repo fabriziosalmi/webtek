@@ -12,6 +12,8 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ## NOW LIVE!! [WebTeK 15 → 01-31 December 2018](https://webtek.live)
 
+**EVENT: https://www.facebook.com/events/932163350504838/** *please share* ❤️
+
 **watch videos**
 
 - 01/12 [Rione XX WebTeK 15 liveshow](https://www.facebook.com/freakbeatsteknoradio/videos/1827742207342951/) by [Freakbeats TeknoRadio](https://www.facebook.com/freakbeatsteknoradio/)
@@ -19,7 +21,6 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - 01/12 [liveset](https://webtek.live/fr/) by [Anarkya](https://www.facebook.com/anarkya.dzk) [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
 - 01/12 [DJ Kilfa + Pablito El Drito interview](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/316772839049332/) by [Stream Of Musicness @ Radio Città Aperta](https://www.facebook.com/streamofmusicness/)
 
-**WEBTEK 15: https://www.facebook.com/events/932163350504838/** *please share* ❤️
 
 Tuned by
 

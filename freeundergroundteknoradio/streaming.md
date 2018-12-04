@@ -5,7 +5,7 @@ You can use OBS Studio to broadcast on Free Underground Tekno social networks.
 
 Let' start!
 
-- Download OBS Studio
+- [Download OBS Studio](https://obsproject.com/download)
 - Install and run OBS Studio
 - Select a proper audio device input (mic input is useless of course, an external audio device is the best solution)
 - Play your djset/liveset and be sure that you linked an output from your mixer to the computer audio input.

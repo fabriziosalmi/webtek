@@ -18,10 +18,14 @@
 
 **DEC 2** *secret location*
 
-- [Shockraver](https://www.facebook.com/shockraver23/)
-- [MGL](https://www.facebook.com/mgl32/)
-- [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/)
-- Manito (Newspecies) TBC
+- [Shockraver](https://www.facebook.com/shockraver23/) djset
+- [MGL](https://www.facebook.com/mgl32/) live
+- [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/) djset
+
+**DEC 5**
+
+- Symbiosis live [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
+- DJ Drugo djset [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
 
 **DEC 9** hosted by *EMS Teknomotive*
 

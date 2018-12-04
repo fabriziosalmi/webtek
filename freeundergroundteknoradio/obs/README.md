@@ -8,7 +8,7 @@ Let' start!
 - Download OBS Studio
 - Install and run OBS Studio
 - Select a proper audio device input (mic input is useless of course, an external audio device is the best solution)
-- Play your djset/liveset and be sure that you linked an output from your mixer to a computer audio input.
+- Play your djset/liveset and be sure that you linked an output from your mixer to the computer audio input.
 - Check the audio input levels and find the optimal volume.
 - Set up video (media source) or images for your OBS scene
 - Mute the audio output of the media source/videos if any and mute the mic input if still active

@@ -22,7 +22,7 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - 01/12 [DJ Kilfa + Pablito El Drito interview](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/316772839049332/) by [Stream Of Musicness @ Radio Città Aperta](https://www.facebook.com/streamofmusicness/)
 - 02/12 [Shockraver + Blackqirex djset](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/389637561577337/)
 - 02/12 [MGL live](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/389637561577337/)
-- 09/12 [SMASHPROJECTCREW live + djset](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/) 
+- 05/12 [SMASHPROJECTCREW live + djset](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/)
 
 Tuned by
 

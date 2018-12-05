@@ -20,7 +20,7 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - 01/12 [Free Underground Tekno intro](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/297703934200305/) by [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
 - 01/12 [liveset](https://webtek.live/fr/) by [Anarkya](https://www.facebook.com/anarkya.dzk) [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
 - 01/12 [DJ Kilfa + Pablito El Drito interview](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/316772839049332/) by [Stream Of Musicness @ Radio Città Aperta](https://www.facebook.com/streamofmusicness/)
-
+- 09/12 [SMASHPROJECTCREW live + djset](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/) 
 
 Tuned by
 

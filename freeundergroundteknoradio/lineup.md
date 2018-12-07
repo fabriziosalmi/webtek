@@ -16,7 +16,7 @@
 - [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
 - [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books
 
-**DEC 2** *secret location*
+**DEC 2**
 
 - [Shockraver](https://www.facebook.com/shockraver23/) djset
 - [MGL](https://www.facebook.com/mgl32/) live
@@ -35,11 +35,11 @@
 - DOOM23
 - TEKDOG aka BRUTAL DOG
 
-**DEC 9** *secret location*
+**DEC 9** 
 
 - BrigaDajeForte vs Vinilika crew
 
-**DEC 31** secret location TBC
+**DEC 31** 
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)

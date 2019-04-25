@@ -10,9 +10,12 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## NOW LIVE!! [WebTeK 15 → 01-31 December 2018](https://webtek.live)
+## Next event
 
-**EVENT: https://www.facebook.com/events/932163350504838/** *please share* ❤️
+- WHAT? WEBTEK 16th edition
+- WHEN? October/November 2019
+- WHERE? Everywhere
+- WHO? Join us!
 
 **watch videos**
 
@@ -45,6 +48,7 @@ Tuned by
 
 ## Video
 
+- [WebTeK 15](https://www.facebook.com/events/932163350504838/)
 - [WebTeK 14](https://www.facebook.com/events/1775114982505491/)
 - [WebTek 13](https://www.google.it/search?q=webtek+13&safe=active&source=lnms&tbm=vid&sa=X)
 - [WebTek 12](https://www.google.it/search?q=webtek+12&safe=active&source=lnms&tbm=vid&sa=X)

@@ -19,6 +19,7 @@ WebTeK 15 @ secret place (BG, Italy)
 - EMS (Teknomotive)
 - Sertik (Teknomotive)
 - Molotov (Teknomotive)
+- Doom23
 - Tek Dog 
 
 WebTeK 15 @ secret place (MI, Italy)
@@ -31,5 +32,9 @@ WebTeK 15 @ secret place (MI, Italy)
 
 - Roby (CircuitGang/FreakBeats)
 
+WebTek 15 @ secret place (PG, Italy)
+
+- Symbiosis (Smash Project)
+- Drugo (Smash Project)
 
 

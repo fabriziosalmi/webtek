@@ -1,13 +1,35 @@
 # WebTeK artists across all editions (2008-today)
 
-WEBTEK 1 @ enjoy pirateria
+WEBTEK 1 @ enjoy Pirateria
 
-- R-Type (Space Invaders Tekno Sound)
-- Fab (Space Invaders Tekno Sound)
-- Undermatic (Space Invaders Tekno Sound) TBC
 - Antonello (Puzzle)
-- LDM (BSR/BDF/Enjoy Pirateria)
-- Luchino (BSR/BDF/Enjoy Pirateria)
-- Silvia Trix (BSR/BDF/Enjoy Pirateria)
-- Paolo Zerla (BSR/BDF/Enjoy Pirateria)
-- Beat'n'kill (BSR/BDF/Enjoy Pirateria)
+- LDM (BDF/enjoy Pirateria)
+- Luchino (BDF/enjoy Pirateria)
+- Silvia Trix (BDF/enjoy Pirateria)
+- Paolo Zerla (BDF/enjoy Pirateria)
+- Beat'N'Kill (BDF/enjoy Pirateria)
+- Fab (Space Invaders Tekno Sound)
+- L3L3
+- some still missing.. please help us get such infos ^_^
+
+
+
+WebTeK 15 @ secret place (BG, Italy)
+
+- EMS (Teknomotive)
+- Sertik (Teknomotive)
+- Molotov (Teknomotive)
+- Tek Dog 
+
+WebTeK 15 @ secret place (MI, Italy)
+
+- MGL (BangBass)
+- Shockraver
+- Blackqirex (New Species)
+
+WebTeK 15 @ secret place (MI, Italy)
+
+- Roby (CircuitGang/FreakBeats)
+
+
+

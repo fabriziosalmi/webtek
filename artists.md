@@ -191,7 +191,7 @@
 - Tom Ton Koma (NKF Sound Familly)
 - RobyUanKeRoby (Circuit Gang)
 - Ride-r (Asocial Team)
-- StevenShaman (Trans'atlanteK)
+- [StevenShaman (Trans'atlanteK)](https://soundcloud.com/steven-shaman-nuret/webtek-xlll-ftk-stevenshaman)
 - Josy (FullVibes)
 - Al Ferson (B.A.M. Records)
 - Cocheese (Anarkpsy/Baba Punk Monster)

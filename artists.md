@@ -212,6 +212,8 @@
 
 ## WEBTEK 14
 
+- [Assolm](https://soundcloud.com/tapkod/assolm-live-10-2017-webtek)
+
 ### FANAT3K RADIO @ FRANCE (multiple places)
 
 - [Redge live](https://soundcloud.com/redgelive/redgewebtek14)

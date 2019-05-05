@@ -1,4 +1,6 @@
-# WebTeK artists across all editions (2008-today)
+# WebTeK artists 
+
+Here you can find a full list of people who played @ WebTeK streaming festivals. Please help me keep this list updated.
 
 ## WEBTEK 1
 
@@ -10,7 +12,6 @@
 - Beat'N'Kill (BDF/enjoy Pirateria)
 - Fab (Space Invaders Tekno Sound)
 - L3L3
-- some still missing.. please help us get such infos ^_^
 
 ## WEBTEK 2
 

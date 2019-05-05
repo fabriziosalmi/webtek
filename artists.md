@@ -234,17 +234,17 @@
 
 ### FREE UNDERGROUND TEKNO RADIO @ ITALY (multiple places)
 
-- EMS (Teknomotive)
-- Sertik (Teknomotive)
-- Molotov (Teknomotive)
-- Doom23
-- Tek Dog 
-- MGL (BangBass)
-- Shockraver
-- Blackqirex (New Species)
+- [EMS (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
+- [Sertik (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
+- [Molotov (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
+- [Doom23](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
 - Roby (CircuitGang/FreakBeats)
-- Symbiosis (Smash Project)
-- Drugo (Smash Project)
+- [MGL (BangBass)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/389637561577337/)
+- [Shockraver](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/257386641620315/)
+- [Blackqirex (New Species)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/257386641620315/)
+- [Symbiosis (Smash Project)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/)
+- [Drugo (Smash Project)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/)
+- [DJ Kilfa @ RCA Stream of musicness](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/316772839049332/)
 
 ### FANAT3K RADIO @ FRANCE (multiple places)
 

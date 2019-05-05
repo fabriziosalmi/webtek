@@ -19,6 +19,9 @@
 - [Kandyis](https://soundcloud.com/kandysakalt/webtek-2-mix-kandys-241010)
 
 ## WEBTEK 3
+
+- [HDI IntelTek](https://soundcloud.com/hdi_itc/hdi-inteltek-liveset-webtek)
+
 ## WEBTEK 4
 ## WEBTEK 5
 

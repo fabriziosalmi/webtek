@@ -90,7 +90,7 @@ Here you can find a full list of people who played @ WebTeK streaming festivals.
 - Cremaster
 - [Crayon (Darakk)](https://soundcloud.com/5op-darakk/crayon-mental-morphic-mix-lsdf-ep-webtek-7-fanat3k-radio)
 - Xylof
-- Frakensis
+- [Frakensis](https://www.youtube.com/watch?v=BTSyz4E5V80)
 - Smooth (TSP)
 
 ## WEBTEK 8

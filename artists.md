@@ -18,9 +18,14 @@
 ## WEBTEK 3
 ## WEBTEK 4
 ## WEBTEK 5
+
+### FANAT3K RADIO (multiple places)
+
+- [Bulle](https://soundcloud.com/bullecore/mix-bulle-ouverture-du-webtek)
+
 ## WEBTEK 6
 
-### FANAT3K RADIO (mutiple places)
+### FANAT3K RADIO (multiple places)
 
 - Astrophonics Records
 - O2F and friends

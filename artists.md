@@ -20,7 +20,7 @@
 ## WEBTEK 5
 ## WEBTEK 6
 
-### FANAT3K RADIO @ FRANCE (mutiple places)
+### FANAT3K RADIO (mutiple places)
 
 - Astrophonics Records
 - O2F and friends
@@ -52,7 +52,7 @@
 
 ## WEBTEK 7
 
-### FANAT3K RADIO @ FRANCE (multiple places)
+### FANAT3K RADIO (multiple places)
 
 - Redge (23h23)
 - Nicklos'Pad Blaze (Mangetet/ADN Prod)
@@ -89,7 +89,51 @@
 ## WEBTEK 9
 ## WEBTEK 10
 ## WEBTEK 11
-## WEBTEK 12
+## WEBTEK 12 (23/24/25 OCTOBER 2015)
+
+### FANAT3K RADIO (multiple places)
+
+- Cascajtek
+- Cocheese (Bpm Cowporaktion/Anarkpsy Record)
+- Cali (Aléatoire Sound/23h23)
+- Dorf (ATF)
+- Cetenza (PACTK) - Lysergik vs Chaterton (PACTK) vs Mephistouf
+- Muzik All
+- Redge (23h23)
+- LoGo (PST)
+- Krown (E-motional Provokation/Belgium)
+- Karismatek (Matrakore)
+- DMS HK (PULSATIONS / MULTIBEAT SO NORD)
+- Klax Sound (ETA)
+- Rider-R
+- Relakztek (Anomalik)
+- Blastering (Muscanoiz)
+- Haryou Sirius Lab (Crop Circles Family)
+- Wiwii (Anomalik)
+- Pernoteck (Arts a Kick Family)
+- Analogyk Bzt (Hardbass production)
+- Kindaaz (Sonic Weaponz)
+- Belka
+- NiCkLoSPadblaze
+- O2F
+- Asphalte
+- Warakrk (K-ta)
+- Tonku
+- Osmosis
+- Passtek Pdkr (Padakor/Okuma/Tactical synopsis )
+- Dj Mohm (Aléatoire Sound)
+- Family Smile
+- Al Ferson (BAM records/Switzerland)
+- MGL & Keno (AcidPark/BangBass/Rehkold)
+- SBUME (Circuit Gang)
+- Def Cronic
+- Tekapunk
+- Yoni Banks & Yan Ka (Underground Connexion Heavy Snatch Records)
+- Area 11
+- Houngan SKK a.k.a. Technikal Troubles (SKK - Sane Kana Kumbo _ OTT)
+- k-lu (Infernal Family)
+
+
 ## WEBTEK 13
 
 ### FANAT3K RADIO @ FRANCE (multiple places)

@@ -23,13 +23,12 @@
 ### FANAT3K RADIO @ FRANCE (mutiple places)
 
 - Astrophonics Records
-- O2F
-- Satane merdeux
-- RDS
+- O2F and friends
+- RDS (Satanè merdeux)
 - Cinqueme soleil
 - Musik'All
 - Mad'World
-- Tor crew
+- TOR crew
 - FMS
 - Rhizome, Cali, Mohm (Aléatoire Sound/23h23)
 - DJ Alkaline
@@ -38,13 +37,13 @@
 - Mars L
 - Hadopi
 - Alferson
-- DJ Garfield
+- DJ Garfield (FTS/EPLKT)
 - Cokon3k
 - Leviking
 - DR pikol
 - Virus
 - Semtek
-- Nicklos'Pad Blaze
+- Nicklos'Pad Blaze (Mangetet/ADN Prod)
 - Smad vs Scrat
 - Drop7
 - SoundK
@@ -56,33 +55,34 @@
 ### FANAT3K RADIO @ FRANCE (multiple places)
 
 - Redge (23h23)
-- Nicklos'Pad Blaze
-- El Nano
-- OD C/Rhum
-- Garfield
+- Nicklos'Pad Blaze (Mangetet/ADN Prod)
+- El Nano (Ethereal Decibel Company/Dkdence)
+- OD C/Rhum (ODZ)
+- DJ Garfield (FTS/EPLKT)
 - Cali & Mohm (Aléatoire Sound/23h23)
-- Bulle
+- Bulle (FTK)
 - O2F and friends
-- DJ Farfaday
-- Arsen
-- Tor crew
-- Mazotribe
+- DJ Farfaday (Crop Circles Family)
+- Arsen (Mangetet Sound Citrouille)
+- TOR crew
+- Mazotribe (Dkdence)
 - Dj Kat (Tacotek)
-- RDS
+- RDS (Satanè merdeux)
 - Cinqueme Soleil
-- Cyroz
+- Cyroz (TKLME/2RIST/TOURIST/QUAKERZ)
 - Actinid
 - Anarkya (23h23/Tacotek Records)
-- Leviking
+- Leviking (Boerbull family/Galeriens)
 - Aure B
 - Ivan
 - Ladouille vs Chipchop
 - Kero
 - Stellapop
 - Cremaster
-- Crayon
+- Crayon (Darakk)
 - Xylof
 - Frakensis
+- Smooth (TSP)
 
 
 ## WEBTEK 8

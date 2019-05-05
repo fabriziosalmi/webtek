@@ -97,6 +97,11 @@
 
 
 ## WEBTEK 8
+
+### FANAT3K RADIO (multiple places)
+
+- [Smooth](https://soundcloud.com/overslash/smooth-20-10-2013-webtek-8)
+
 ## WEBTEK 9
 ## WEBTEK 10
 

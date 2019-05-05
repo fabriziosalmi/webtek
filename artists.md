@@ -75,3 +75,27 @@
 - Roby (CircuitGang/FreakBeats)
 - Symbiosis (Smash Project)
 - Drugo (Smash Project)
+
+### FANAT3K RADIO @ FRANCE (multiple places)
+
+Samedi 01 Décembre 2018
+
+10h30>>>13h30 Anarkya (23h23/Tacotek Records)
+13h30>>>15h00 StevenShaman (Infrabask)
+15h00>>>16h30 Haryou Sirus Lab (CCF/PST)
+16h30>>>18h00 Dj Kat (Tacotek)
+18h00>>>01h00 Assolm/Airbass/Acydub/Weedjet/SRV/Gui-Two
+
+
+Dimanche 02 Décembre 2018
+
+- Aléatoire Sound/23h23
+- Ecran 2D (Cymatik Crew)
+- Hak Irah (B.a.m. Records)
+- Delikatess (Vie Tes Rêves / wk / oniroblaste/ Amazone exp)
+- OD
+- Osmosis
+- Cocheese (Anarkpsy /Infrabask/Psy underground frequency)
+- Noar (L.S.D.F krew)
+- Metalloïde (Produc'Sounds)
+- Surprise

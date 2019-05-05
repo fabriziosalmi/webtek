@@ -1,6 +1,6 @@
 # WebTeK artists 
 
-Here you can find a full list of people who played @ WebTeK streaming festivals. Please help me keep this list updated.
+Here you can find a full list of people who played @ WebTeK streaming festivals.
 
 ## WEBTEK 1
 

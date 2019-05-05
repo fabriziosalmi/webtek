@@ -95,7 +95,7 @@
 - Kero
 - Stellapop
 - Cremaster
-- Crayon (Darakk)
+- [Crayon (Darakk)](https://soundcloud.com/5op-darakk/crayon-mental-morphic-mix-lsdf-ep-webtek-7-fanat3k-radio)
 - Xylof
 - Frakensis
 - Smooth (TSP)

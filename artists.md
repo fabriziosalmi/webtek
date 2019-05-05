@@ -162,6 +162,9 @@
 - Houngan SKK a.k.a. Technikal Troubles (SKK - Sane Kana Kumbo _ OTT)
 - k-lu (Infernal Family)
 
+### HAPPYFACEFAMILY @ FRANCE (multiple places)
+
+- [Shaman/Infrabask](https://soundcloud.com/steven-shaman-nuret/mix-acidtek-26102015-webtek-12)
 
 ## WEBTEK 13
 

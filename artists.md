@@ -2,8 +2,6 @@
 
 ## WEBTEK 1
 
-### FREE UNDERGROUND TEKNO RADIO @ Rome (enjoy Pirateria), ITALY
-
 - Antonello (Puzzle)
 - LDM (BDF/enjoy Pirateria)
 - Luchino (BDF/enjoy Pirateria)
@@ -25,13 +23,9 @@
 ## WEBTEK 4
 ## WEBTEK 5
 
-### FANAT3K RADIO (multiple places)
-
 - [Bulle](https://soundcloud.com/bullecore/mix-bulle-ouverture-du-webtek)
 
 ## WEBTEK 6
-
-### FANAT3K RADIO (multiple places)
 
 - Astrophonics Records
 - O2F and friends
@@ -63,19 +57,11 @@
 
 ## WEBTEK 7
 
-### FANAT3K RADIO @ FRANCE (multiple places)
-
 - [Redge live](https://soundcloud.com/redgelive/redge-webtek7)
-
-### FREE UNDERGROUND TEKNO (multiple places)
-
 - fab (Space Invaders Tekno Sound)
 - berber
 - LDM (BDF)
 - asphalt pirates
-
-### FANAT3K RADIO (multiple places)
-
 - Redge (23h23)
 - Nicklos'Pad Blaze (Mangetet/ADN Prod)
 - El Nano (Ethereal Decibel Company/Dkdence)
@@ -106,10 +92,7 @@
 - Frakensis
 - Smooth (TSP)
 
-
 ## WEBTEK 8
-
-### FANAT3K RADIO (multiple places)
 
 - [Smooth](https://soundcloud.com/overslash/smooth-20-10-2013-webtek-8)
 
@@ -120,8 +103,6 @@
 
 ## WEBTEK 10
 
-### FANAT3K RADIO (multiple places)
-
 - [Redge live](https://soundcloud.com/redgelive/redgewebtek-x)
 - [ReezOhm](https://soundcloud.com/reez-5/reezohm-live-webtek-x)
 
@@ -129,14 +110,9 @@
 
 - [Kindaaz live](https://soundcloud.com/kindaaz/kndzwebtek-xi)
 - [Scepticemic](https://soundcloud.com/valentin-nies/acid-acidcore-by-midoval-aka-scepticemik-live-webtek-xi)
-
-### FREE UNDERGROUND TEKNO @ ITALY (multiple places)
-
 - [Disagio43](https://soundcloud.com/disagio43/disagio43-webtekcsoa-lambretta)
 
 ## WEBTEK 12 (23/24/25 OCTOBER 2015)
-
-### FANAT3K RADIO (multiple places)
 
 - Cascajtek
 - Cocheese (Bpm Cowporaktion/Anarkpsy Record)
@@ -177,14 +153,9 @@
 - Area 11
 - Houngan SKK a.k.a. Technikal Troubles (SKK - Sane Kana Kumbo _ OTT)
 - k-lu (Infernal Family)
-
-### HAPPYFACEFAMILY @ FRANCE (multiple places)
-
 - [Shaman/Infrabask](https://soundcloud.com/steven-shaman-nuret/mix-acidtek-26102015-webtek-12)
 
 ## WEBTEK 13
-
-### FANAT3K RADIO @ FRANCE (multiple places)
 
 - Wiwii (Anomalik)
 - Tonku
@@ -211,33 +182,21 @@
 - Harcordéon (Belladone Project)
 - Ecran 2D (OSK soundsystem)
 - Kaostek
-
-### HAPPYFACEFAMILY @ FRANCE (multiple places)
-
 - [Darklouxxx](https://soundcloud.com/darklouxxx/webtek-13-darklouxxx-mix-happyface-family-05032016)
 - [Rob X](https://soundcloud.com/djrob-x/webtek-13-20-02-2016-rob-x-live-mix-happyfacefamilyeu)
 
 ## WEBTEK 14
 
 - [Assolm](https://soundcloud.com/tapkod/assolm-live-10-2017-webtek)
-
-### FANAT3K RADIO @ FRANCE (multiple places)
-
 - [Redge live](https://soundcloud.com/redgelive/redgewebtek14)
 - [Farfaday](https://soundcloud.com/farfaday-ccf/farfaday-ccf-pst-au-webtek-14-21102017-version-mp3-320kbps)
 - [Ecran 2D](https://soundcloud.com/ecran-2d/liveset-session-1-webtek-14-2017-ftkradio)
 - [Airbass](https://soundcloud.com/airbass/airbass-live-webek-14-2017)
-
-### FREE UNDERGROUND TEKNO RADIO
-
-- [live/mix](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/10155860553564766/)
+- [Free Underground Tekno Radio live/mix](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/10155860553564766/)
 
 ## WEBTEK 15
 
 - [Cocheese](https://soundcloud.com/alexpeytoureau/webtek-15)
-
-### FREE UNDERGROUND TEKNO RADIO @ ITALY (multiple places)
-
 - [EMS (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
 - [Sertik (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
 - [Molotov (Teknomotive)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/2037769792974322/)
@@ -249,9 +208,6 @@
 - [Symbiosis (Smash Project)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/)
 - [Drugo (Smash Project)](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/342500939865826/)
 - [DJ Kilfa @ RCA Stream of musicness](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/316772839049332/)
-
-### FANAT3K RADIO @ FRANCE (multiple places)
-
 - Anarkya (23h23/Tacotek Records)
 - StevenShaman (Infrabask)
 - Haryou Sirus Lab (CCF/PST)
@@ -267,4 +223,3 @@
 - Noar (L.S.D.F krew)
 - Metalloïde (Produc'Sounds)
 - Surprise
-

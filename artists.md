@@ -116,6 +116,7 @@
 ## WEBTEK 11
 
 - [Kindaaz live](https://soundcloud.com/kindaaz/kndzwebtek-xi)
+- [Scepticemic](https://soundcloud.com/valentin-nies/acid-acidcore-by-midoval-aka-scepticemik-live-webtek-xi)
 
 ## WEBTEK 12 (23/24/25 OCTOBER 2015)
 

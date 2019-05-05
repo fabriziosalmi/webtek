@@ -52,6 +52,10 @@
 
 ## WEBTEK 7
 
+### FANAT3K RADIO @ FRANCE (multiple places)
+
+- [Redge live](https://soundcloud.com/redgelive/redge-webtek7)
+
 ### FREE UNDERGROUND TEKNO (multiple places)
 
 - fab (Space Invaders Tekno Sound)

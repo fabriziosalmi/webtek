@@ -105,6 +105,9 @@
 - [Redge live](https://soundcloud.com/redgelive/redgewebtek-x)
 
 ## WEBTEK 11
+
+- [Kindaaz live](https://soundcloud.com/kindaaz/kndzwebtek-xi)
+
 ## WEBTEK 12 (23/24/25 OCTOBER 2015)
 
 ### FANAT3K RADIO (multiple places)

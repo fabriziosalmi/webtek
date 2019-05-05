@@ -31,7 +31,7 @@
 - Mad'World
 - Tor crew
 - FMS
-- Rhizome, Cali, Mohm (Aleatoire Sound)
+- Rhizome, Cali, Mohm (Aléatoire Sound/23h23)
 - DJ Alkaline
 - DJ Henrry
 - POttar
@@ -52,6 +52,39 @@
 - Chris Revoltè
 
 ## WEBTEK 7
+
+### FANAT3K RADIO @ FRANCE (multiple places)
+
+- Redge (23h23)
+- Nicklos'Pad Blaze
+- El Nano
+- OD C/Rhum
+- Garfield
+- Cali & Mohm (Aléatoire Sound/23h23)
+- Bulle
+- O2F and friends
+- DJ Farfaday
+- Arsen
+- Tor crew
+- Mazotribe
+- Dj Kat (Tacotek)
+- RDS
+- Cinqueme Soleil
+- Cyroz
+- Actinid
+- Anarkya (23h23/Tacotek Records)
+- Leviking
+- Aure B
+- Ivan
+- Ladouille vs Chipchop
+- Kero
+- Stellapop
+- Cremaster
+- Crayon
+- Xylof
+- Frakensis
+
+
 ## WEBTEK 8
 ## WEBTEK 9
 ## WEBTEK 10

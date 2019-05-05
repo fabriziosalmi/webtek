@@ -1,6 +1,8 @@
 # WebTeK artists across all editions (2008-today)
 
-WEBTEK 1 @ enjoy Pirateria
+## WEBTEK 1
+
+### FREE UNDERGROUND TEKNO RADIO @ RM (enjoy Pirateria), Italy
 
 - Antonello (Puzzle)
 - LDM (BDF/enjoy Pirateria)
@@ -12,9 +14,23 @@ WEBTEK 1 @ enjoy Pirateria
 - L3L3
 - some still missing.. please help us get such infos ^_^
 
+## WEBTEK 2
+## WEBTEK 3
+## WEBTEK 4
+## WEBTEK 5
+## WEBTEK 6
+## WEBTEK 7
+## WEBTEK 8
+## WEBTEK 9
+## WEBTEK 10
+## WEBTEK 11
+## WEBTEK 12
+## WEBTEK 13
+## WEBTEK 14
 
+## WEBTEK 15
 
-WebTeK 15 @ secret place (BG, Italy)
+### FREE UNDERGROUND TEKNO RADIO @ BG, Italy
 
 - EMS (Teknomotive)
 - Sertik (Teknomotive)
@@ -22,19 +38,17 @@ WebTeK 15 @ secret place (BG, Italy)
 - Doom23
 - Tek Dog 
 
-WebTeK 15 @ secret place (MI, Italy)
+### FREE UNDERGROUND TEKNO RADIO @ MI, Italy
 
 - MGL (BangBass)
 - Shockraver
 - Blackqirex (New Species)
 
-WebTeK 15 @ secret place (MI, Italy)
+### FREE UNDERGROUND TEKNO RADIO @ MI, Italy
 
 - Roby (CircuitGang/FreakBeats)
 
-WebTek 15 @ secret place (PG, Italy)
+### FREE UNDERGROUND TEKNO RADIO @ AN, Italy
 
 - Symbiosis (Smash Project)
 - Drugo (Smash Project)
-
-

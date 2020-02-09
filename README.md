@@ -13,10 +13,10 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ## Next event
 
-- WHAT? WEBTEK 16th edition
-- WHEN? March 2020
+- WHAT? WEBTEK => 16th edition
+- WHEN? 20-21-22 / 03 / 2020
 - WHERE? Everywhere
-- WHO? Join us!
+- WHO? Everybody
 
 ## Last event
 

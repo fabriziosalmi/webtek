@@ -11,14 +11,12 @@ This event is managed by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event
+## Next event, WEBTEK 16 
 
-- WHAT? WEBTEK => 16th edition
+- WHAT? WEBTEK => 16th edition, 10 years birthday
 - WHEN? 20-21-22 / 03 / 2020
 - WHERE? Everywhere
 - WHO? Everybody
-
-## WEBTEK 16 
 
 *Powered by*
 

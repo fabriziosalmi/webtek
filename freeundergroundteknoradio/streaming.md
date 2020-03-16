@@ -18,16 +18,17 @@ Let' start!
 
 **Stream > Streaming Services**
 
-- Service: Restream.io
-- Server: EU-West (London, GB)
-- Stream key: ***************** [retrieve key](mailto:fabrizio.salmi@gmail.com)
+- Service: Facebook
+- Server:  automatic
+- Stream key: ***************** [retrieve key](mailto:fabrizio.salmi@gmail.com or pm streaming.teknival on FB)
+or use your own profile/page.
 
 **Output**
 
 - Output Mode: simple
-- Video bitrate: 500 (or less if slow connection, up to 2000 on fiber) 
+- Video bitrate: 500 kbps (or less if slow connection, up to 2000 on fiber) 
 - Encoder: x264
-- Audio bitrate: 128
+- Audio bitrate: 128 (AAC)
 
 **Audio**
 

@@ -45,10 +45,10 @@ and open the template in the editor.
                             <span class="close">&times;</span>
                             <center><h2WebTek 16 - Fanat3k Radio Line Up</h2></center>
                             <h4>Vendredi 20/10</h4>
-                            <p>18h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;20h00 xxx</p>
-                            <p>20h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;21h30 xxx</p>
-                            <p>21h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;23h00 Anarkya</p>
-                            <p>23h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;01h00 Redge</p>
+                            <p>18h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;20h00 Cali (23h23)</p>
+                            <p>20h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;21h30 Delikatess Vs Carine fraser Skyzo live</p>
+                            <p>21h30&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;23h00 Anarkya (23h23)</p>
+                            <p>23h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;01h00 Redge (23h23)</p>
                             <p>01h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;02h30 Anarkya si pas dodo</p>
                             <h4>Samedi 21 mars</h4>
                             <p>06h00&nbsp;&nbsp;&drbkarow;&nbsp;&nbsp;07h00 </p>
@@ -84,18 +84,19 @@ and open the template in the editor.
                     <div class="iframe-responsive-wrapper">
                         <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
 
-                        <script src= "http://player.twitch.tv/js/embed/v1.js"></script>
+                        <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
                         <div id="twtv"></div>
                         <script type="text/javascript">
                                 var options = {
                                         width: 1280,
                                         height: 720,
-                                        channel: "ftkradio"
+                                        channel: "ftkradio",
+					parent: ["webtek.live"]
                                 };
                                 var player = new Twitch.Player("twtv", options);
                                 player.setVolume(0.8);
                         </script>
-
+			
 
                     </div>
                 </div>
@@ -104,8 +105,8 @@ and open the template in the editor.
                         <img class="iframe-chat" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>        
                         <iframe frameborder="0" 
                                 scrolling="no" 
-                                id="ftkradio" 
-                                src="https://www.twitch.tv/ftkradio/chat" 
+                                id="ftkradio"  
+				src="https://www.twitch.tv/embed/ftkradio/chat?parent=webtek.live"
                                 height="510" 
                                 width="420">
                         </iframe>

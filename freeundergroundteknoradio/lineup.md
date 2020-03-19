@@ -16,12 +16,16 @@
 - [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
 - [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books
 
-**DEC 2** *secret location*
+**DEC 2**
 
-- [Shockraver](https://www.facebook.com/shockraver23/)
-- [MGL](https://www.facebook.com/mgl32/)
-- [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/)
-- Manito (Newspecies) TBC
+- [Shockraver](https://www.facebook.com/shockraver23/) djset
+- [MGL](https://www.facebook.com/mgl32/) live
+- [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/) djset
+
+**DEC 5**
+
+- Symbiosis live [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
+- DJ Drugo djset [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
 
 **DEC 9** hosted by *EMS Teknomotive*
 
@@ -31,11 +35,11 @@
 - DOOM23
 - TEKDOG aka BRUTAL DOG
 
-**DEC 9** *secret location*
+**DEC 9** 
 
 - BrigaDajeForte vs Vinilika crew
 
-**DEC 31** secret location TBC
+**DEC 31** 
 
 - [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
 - [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)

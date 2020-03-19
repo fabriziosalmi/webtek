@@ -27,6 +27,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [UndergroundRadioMix](http://www.undergroundradiomix.com/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [BPM Resistance](https://www.facebook.com/BPMresistance/)
+- [ISD Crew](https://isd-webtek.github.io/)
 - [...]
 
 ### WEBTEK 15 videos

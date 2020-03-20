@@ -13,7 +13,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ## Next event, WEBTEK 16 
 
-- WHAT? WEBTEK => 16th edition, 10 years birthday
+- WHAT? [WEBTEK => 16th edition, 10 years birthday](https://www.facebook.com/events/3569873273086963/)
 - WHEN? 20-21-22 / 03 / 2020
 - WHERE? Everywhere
 - WHO? Everybody

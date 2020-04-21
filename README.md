@@ -11,10 +11,10 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event, WEBTEK 16 
+## Next event, WEBTEK 17
 
-- WHAT? [WEBTEK => 16th edition, 10 years birthday](https://www.facebook.com/events/3569873273086963/)
-- WHEN? 20-21-22 / 03 / 2020
+- WHAT? WEBTEK => 17th edition, 11 years birthday
+- WHEN? TBD
 - WHERE? Everywhere
 - WHO? Everybody
 
@@ -29,6 +29,10 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [BPM Resistance](https://www.facebook.com/BPMresistance/)
 - [ISD Crew](https://isd-webtek.github.io/)
 - [...]
+
+### WEBTEK 16 videos
+
+- [Watch all videos](https://www.facebook.com/events/3569873273086963/)
 
 ### WEBTEK 15 videos
 
@@ -55,6 +59,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ### Video
 
+- [WebTeK 16](https://www.facebook.com/events/3569873273086963/)
 - [WebTeK 15](https://www.facebook.com/events/932163350504838/)
 - [WebTeK 14](https://www.facebook.com/events/1775114982505491/)
 - [WebTek 13](https://www.google.it/search?q=webtek+13&safe=active&source=lnms&tbm=vid&sa=X)

@@ -13,10 +13,11 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ## Next event, WEBTEK 17
 
-- WHAT? WEBTEK => 17th edition, 11 years birthday
-- WHEN? TBD
+- WHAT? WEBTEK => 17th edition
+- WHEN? 20-23/NOV/2020
 - WHERE? Everywhere
 - WHO? Everybody
+- EVENT LINK: [https://www.facebook.com/events/442048070094479](https://www.facebook.com/events/442048070094479)
 
 *Powered by*
 

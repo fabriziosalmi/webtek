@@ -7,4 +7,8 @@
 - SPACE INVADERS
 - SHOCKRAVER
 - GG ALIEN
-- more to confirm..
+- BISTURI HZD
+- MOLOTOV
+- GAMM@ 5 DAN RECORDS
+
+more to confirm..

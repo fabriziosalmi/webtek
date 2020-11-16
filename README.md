@@ -15,20 +15,19 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 - WHAT? WEBTEK => 17th edition
 - WHEN? 20-23/NOV/2020
-- WHERE? Everywhere
-- WHO? Everybody
-- EVENT LINK: [https://www.facebook.com/events/442048070094479](https://www.facebook.com/events/442048070094479)
+
+*Where*
+
+- [TELEGRAM](https://t.me/streamingteknival)
+- [FACEBOOK](https://www.facebook.com/events/442048070094479)
+- [WEBSITE](https://webtek.live)
 
 *Powered by*
 
 - [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
 - [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
-- [HarderSoundRadio](http://www.hardersound.net)
 - [Freakbeats TeknoRadio](https://www.facebook.com/freakbeatsteknoradio/)
-- [UndergroundRadioMix](http://www.undergroundradiomix.com/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
-- [BPM Resistance](https://www.facebook.com/BPMresistance/)
-- [ISD Crew](https://isd-webtek.github.io/)
 - [...]
 
 ### WEBTEK 16 videos

@@ -28,6 +28,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
 - [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
+- [ISD Crew](https://www.twitch.tv/isdcrew)
 - [...]
 
 ### WEBTEK 16 videos

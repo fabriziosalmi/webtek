@@ -31,6 +31,13 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [ISD Crew](https://www.twitch.tv/isdcrew)
 - [...]
 
+### WEBTEK 17 videos
+
+- [Ixindamix - SP23](https://www.facebook.com/102812661362704/videos/382897959497805/)
+- [DJ Tal - SP23](https://www.facebook.com/LoveAndDirectTV/videos/1288379918214048)
+- [Dave The Drummer](https://www.facebook.com/DJDaveTheDrummer/videos/299872054520884)
+- ..updating.. 
+
 ### WEBTEK 16 videos
 
 - [Watch all videos](https://www.facebook.com/events/3569873273086963/)

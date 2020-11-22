@@ -36,7 +36,9 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [Ixindamix - SP23](https://www.facebook.com/102812661362704/videos/382897959497805/)
 - [DJ Tal - SP23](https://www.facebook.com/LoveAndDirectTV/videos/1288379918214048)
 - [Dave The Drummer](https://www.facebook.com/DJDaveTheDrummer/videos/299872054520884)
-- ..updating.. 
+- [R-Type](https://www.facebook.com/freaks23/videos/4976036569073195)
+- **pls help us updating this list ^_^**
+- still updating.. 
 
 ### WEBTEK 16 videos
 

@@ -11,15 +11,14 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event, WEBTEK 17
+## Next event, WEBTEK 18
 
-- WHAT? WEBTEK => 17th edition
-- WHEN? 20-23/NOV/2020
+- WHAT? WEBTEK => 18th edition
+- WHEN? MARCH 2021
 
 *Where*
 
 - [TELEGRAM](https://t.me/streamingteknival)
-- [FACEBOOK](https://www.facebook.com/events/442048070094479)
 - [WEBSITE](https://webtek.live)
 
 *Powered by*
@@ -29,7 +28,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [ISD Crew](https://www.twitch.tv/isdcrew)
-- [...]
+- Independent djs, producers, sound systems, networks
 
 ### WEBTEK 17 videos
 

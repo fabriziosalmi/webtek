@@ -23,12 +23,13 @@ All stream sessions will be shared to the following spaces:
 ### Friday 19
 
 - [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
-- DJ Wade + Sandro Patch (FMT)
+- DJ Wade (FMT)
 - [Ixindamix](https://www.facebook.com/Ixindamix) live (SP23)
 - [Cristal Distortion](https://www.facebook.com/crystaldistortion23) djset (SP23)
 
 ### Saturday 20
 
+- Sandro Patch (FMT)
 - Silvia Wally (LOONEY TUNES)
 - [Antony C](https://www.facebook.com/profile.php?id=100005388945452) (PUZZLE)
 - [DJ Orz](https://www.facebook.com/djorzkk) (KERNEL PANIK)

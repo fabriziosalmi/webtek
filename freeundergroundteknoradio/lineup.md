@@ -1,17 +1,30 @@
 # [Free Underground Tekno Radio](https://www.facebook.com/Free.Underground.Tekno.Radio/) line up @ [WebTeK XVII](https://www.facebook.com/events/473975483781586)
 
-- If you already reserved your slot you will receive Free Underground Tekno Radio stream key for Facebook page.
-- If you want to avoid copy issues (maybe some records are protected by distributors and similar.. you will receive a stream key for Periscope/Twitter
+- If you already reserved your slot you will receive Free Underground Tekno Radio stream key for Facebook page some days before the event
+- If you still need support to setup and play I'll help of course, happy to make everything works as expected ([mail me](fabrizio.salmi@gmail.com), [PM me on Telegram/whatsapp](+393409727857) or DM me on [FB](https://www.facebook.com/streaming.teknival/)/[Instagram](https://www.instagram.com/fab_spaceinvaders/)
+- If you scared about copyright issues (some records are protected by distributors ofc) you will receive a stream key for Periscope/Twitter which should works better that way
+- I will boost audience for some sessions using restream.io pro account (due to multiple-platform stream sessions at the same time), this is completely transparent you don't need to do anything as performer /streamer
 
-All stream sessions will be shared to the following platforms:
+All stream sessions will be shared to the following spaces:
 
-- [Telegram channel](https://t.me/streamingteknival)
+- [WebTeK FB page](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 - [Facebook event](https://www.facebook.com/events/473975483781586)
+- [Free Underground Tekno Radio page](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [Free Underground Tekno Radio group](https://www.facebook.com/groups/free.underground.tekno/)
+- [Telegram channel](https://t.me/streamingteknival)
 - [WebTeK website](https://webtek.live)
 
-You can support the project, just share stram links to your friends, it's up to YOU ^_^
+### Additional information
 
-## Friday 19
+- Some stream sessions, if possible, will be shared via real sound systems.. Ooooops....
+- You can join the project not only by playing or listening but also by sharing stream links to your friends, it's up to YOU and we pleased to reach more ppl ^_^
+
+## LINE UP 
+
+- WARNING!!! For any line up cancel/change/etc pls write me I'll update this page ASAP :)
+
+
+### Friday 19
 
 start @ 23
 
@@ -20,7 +33,7 @@ start @ 23
 - Emix live (Streaming Project)
 - Sandro Patch (FMT)
 
-## Saturday 20
+### Saturday 20
 
 - Antony C (PUZZLE)
 - DJ Orz (KERNEL PANIK)
@@ -31,10 +44,13 @@ start @ 23
 - Z-Side
 - Pippo Laminal (ACID DROPS)
 
-## Sunday 21
+### Sunday 21
 
-## TBC
+- tbd
 
+### TBC
+
+- R-Type (FREAKBEATS TEKNORADIO)
 - Shockraver
 - Vladdy (OKTO TRIBE)
 - Gigi (NBK)

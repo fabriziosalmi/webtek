@@ -41,6 +41,7 @@ start @ 12
 - Shivo (80HZ)
 - Z-Side
 - Pippo Laminal (ACID DROPS)
+- Joker (FTK)
 
 ### Sunday 21
 

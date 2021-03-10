@@ -27,7 +27,7 @@ start @ 23
 - Ixindamix live (SP23)
 - Cristal Distortion djset (SP23)
 - Emix live (Streaming Project)
-- Sandro Patch (FMT)
+- DJ Wade + Sandro Patch (FMT)
 
 ### Saturday 20
 

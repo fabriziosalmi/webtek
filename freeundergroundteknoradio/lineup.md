@@ -44,7 +44,7 @@ All stream sessions will be shared to the following spaces:
 ### Sunday 21
 
 - B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
-
+- Panzok
 ### TBD
 
 - Crazy Control Sound System djs

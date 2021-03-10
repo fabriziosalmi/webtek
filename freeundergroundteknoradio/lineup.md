@@ -22,32 +22,33 @@ All stream sessions will be shared to the following spaces:
 
 ### Friday 19
 
-start @ 23
-
-- [Ixindamix](https://www.facebook.com/Ixindamix) live (SP23)
-- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) djset (SP23)
 - [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
 - DJ Wade + Sandro Patch (FMT)
+- [Ixindamix](https://www.facebook.com/Ixindamix) live (SP23)
+- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) djset (SP23)
 
 ### Saturday 20
 
-start @ morning
-
-- Antony C (PUZZLE)
-- DJ Orz (KERNEL PANIK)
 - Silvia Wally (LOONEY TUNES)
+- [Antony C](https://www.facebook.com/profile.php?id=100005388945452) (PUZZLE)
+- [DJ Orz](https://www.facebook.com/djorzkk) (KERNEL PANIK)
 - Pirate Control (PUZZLE)
-- Undermatic + Max (SPACE INVADERS)
-- LDM (VINILIKA CREW)
-- Fuckin' Frankie (ZAPOTEK)
-- Shivo (80HZ)
-- Z-Side
+- [Undermatic](https://www.facebook.com/andrea.undermatic) + Max (SPACE INVADERS)
+- [LDM](https://www.facebook.com/lorenzo.dimaggio.52) (VINILIKA CREW)
+- [Fuckin' Frankie](https://www.facebook.com/profile.php?id=1387816675) (ZAPOTEK)
+- [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
+- [Z-Side](https://www.facebook.com/ZSide/)
+- [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
 - Pippo Laminal (ACID DROPS)
-- Joker (FTK)
 
 ### Sunday 21
 
-- B2B R-Type (FREAKBEATS) + fab (SPACE INVADERS)
+- B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
+
+### TBD
+
+- Crazy Control Sound System djs
+- BlackDrop Sound System djs
 
 ### TBC
 
@@ -56,12 +57,11 @@ start @ morning
 - Gigi (NBK)
 - ALIEN KML crew
 - Jordano (MOD)
-- DJ Wade (FMT)
-- many more tbc.. 
+- many more.. 
 
 ## Flyer/Art
 
-- Nina Bat (5HT)
+- [Nina Bat](https://www.facebook.com/Nino.BlackBat)
 
 ## More info
 

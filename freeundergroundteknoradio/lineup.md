@@ -1,9 +1,9 @@
 # [Free Underground Tekno Radio](https://www.facebook.com/Free.Underground.Tekno.Radio/) line up @ [WebTeK XVII](https://www.facebook.com/events/473975483781586)
 
-- If you already reserved your slot you will receive Free Underground Tekno Radio stream key for Facebook page some days before the event
-- If you still need support to setup and play I'll help of course, happy to make everything works as expected ([mail me](fabrizio.salmi@gmail.com), [PM me on Telegram/whatsapp](+393409727857) or DM me on [FB](https://www.facebook.com/streaming.teknival/)/[Instagram](https://www.instagram.com/fab_spaceinvaders/)
-- If you scared about copyright issues (some records are protected by distributors ofc) you will receive a stream key for Periscope/Twitter which should works better that way
-- I will boost audience for some sessions using restream.io pro account (due to multiple-platform stream sessions at the same time), this is completely transparent you don't need to do anything as performer /streamer
+- If you already reserved your slot you will receive Free Underground Tekno Radio stream key for Facebook page very soon
+- If you need tech support I can help then ([mail me](fabrizio.salmi@gmail.com), [PM me on Telegram/Whatsapp](+393409727857) or DM me on [FB](https://www.facebook.com/streaming.teknival/)/[Instagram](https://www.instagram.com/fab_spaceinvaders/)
+- If you scared about copyright issues You will receive a stream key for Twitter (Periscope) which should works with no "mute block"
+- Some sessions will be boosted using restream.io PRO account (same session will be shared to multiple platforms: YouTube/FB/Twitter)
 
 All stream sessions will be shared to the following spaces:
 
@@ -16,13 +16,12 @@ All stream sessions will be shared to the following spaces:
 
 ### Additional information
 
-- Some stream sessions, if possible, will be shared via real sound systems.. Ooooops....
-- You can join the project not only by playing or listening but also by sharing stream links to your friends, it's up to YOU and we pleased to reach more ppl ^_^
+- Some stream sessions, if possible, will be shared via real sound systems.. Old school will never die!!
+- You can join the project not only by playing or listening music but also by sharing stream links to your friends, it's up to You ^_^
 
 ## LINE UP 
 
 - WARNING!!! For any line up cancel/change/etc pls write me I'll update this page ASAP :)
-
 
 ### Friday 19
 
@@ -34,6 +33,8 @@ start @ 23
 - Sandro Patch (FMT)
 
 ### Saturday 20
+
+start @ 12
 
 - Antony C (PUZZLE)
 - DJ Orz (KERNEL PANIK)
@@ -62,3 +63,8 @@ start @ 23
 ## Flyer/Art
 
 - Nina Bat (5HT)
+
+## General support
+
+- You can ask support to Free Underground Tekno, FreakBeats TeknoRadio, Fanat3k Radio and a lot of people who already joined the WEBTEK creature in the past.
+- All sounds, performers, hackers and aliens are welcome!!

@@ -24,9 +24,9 @@ All stream sessions will be shared to the following spaces:
 
 start @ 23
 
-- Ixindamix live (SP23)
-- Cristal Distortion djset (SP23)
-- Emix live (Streaming Project)
+- [Ixindamix](https://www.facebook.com/Ixindamix) live (SP23)
+- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) djset (SP23)
+- [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
 - DJ Wade + Sandro Patch (FMT)
 
 ### Saturday 20

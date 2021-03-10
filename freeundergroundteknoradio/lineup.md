@@ -31,7 +31,7 @@ start @ 23
 
 ### Saturday 20
 
-start @ 12
+start @ morning
 
 - Antony C (PUZZLE)
 - DJ Orz (KERNEL PANIK)

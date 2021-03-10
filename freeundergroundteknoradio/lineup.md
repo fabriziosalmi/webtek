@@ -35,7 +35,9 @@ start @ morning
 
 - Antony C (PUZZLE)
 - DJ Orz (KERNEL PANIK)
-- fab (SPACE INVADERS)
+- Silvia Wally
+- Pirate Control (PUZZLE)
+- Undermatic + Max (SPACE INVADERS)
 - LDM (VINILIKA CREW)
 - Fuckin' Frankie (ZAPOTEK)
 - Shivo (80HZ)
@@ -45,11 +47,10 @@ start @ morning
 
 ### Sunday 21
 
-- tbd
+- B2B R-Type (FREAKBEATS) + fab (SPACE INVADERS)
 
 ### TBC
 
-- R-Type (FREAKBEATS TEKNORADIO)
 - Shockraver
 - Vladdy (OKTO TRIBE)
 - Gigi (NBK)

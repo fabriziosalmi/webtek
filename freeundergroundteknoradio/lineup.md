@@ -35,7 +35,7 @@ start @ morning
 
 - Antony C (PUZZLE)
 - DJ Orz (KERNEL PANIK)
-- Silvia Wally
+- Silvia Wally (LOONEY TUNES)
 - Pirate Control (PUZZLE)
 - Undermatic + Max (SPACE INVADERS)
 - LDM (VINILIKA CREW)

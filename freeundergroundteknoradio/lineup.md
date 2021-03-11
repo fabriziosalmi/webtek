@@ -25,7 +25,7 @@ All stream sessions will be shared to the following spaces:
 - [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
 - DJ Wade + Sandro Patch (FMT)
 - [Ixindamix](https://www.facebook.com/Ixindamix) (SP23)
-- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
+- [Crystal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
 
 ### Saturday 20
 

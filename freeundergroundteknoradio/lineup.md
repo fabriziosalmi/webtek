@@ -30,10 +30,9 @@ All stream sessions will be shared to the following spaces:
 
 ### Saturday 20
 
-- Silvia Wally (LOONEY TUNES)
-- [Antony C](https://www.facebook.com/profile.php?id=100005388945452) (PUZZLE)
+- [Silvia Wally](https://www.facebook.com/silviawallyx) (LOONEY TUNZ)
+- [Antony C](https://www.facebook.com/profile.php?id=100005388945452) + Pirate Control (PUZZLE)
 - [DJ Orz](https://www.facebook.com/djorzkk) (KERNEL PANIK)
-- Pirate Control (PUZZLE)
 - [Undermatic](https://www.facebook.com/andrea.undermatic) + Max (SPACE INVADERS)
 - [LDM](https://www.facebook.com/lorenzo.dimaggio.52) (VINILIKA CREW)
 - [Fuckin' Frankie](https://www.facebook.com/profile.php?id=1387816675) (ZAPOTEK)
@@ -49,12 +48,9 @@ All stream sessions will be shared to the following spaces:
 - RNZ_Raving vs LMB (TEKNO NOISE)
 - Cali Khali (ALEATOIRE SOUND)
 - Dj Mohm
-- Vladdy + Marterz (OKTO TRIBE)
-
-### TBD
-
-- Crazy Control Sound System djs
-- BlackDrop Sound System djs
+- [Vladdy](https://www.facebook.com/vladdy.tribe.7) + [Marterz](https://www.facebook.com/ric.marter.90) (OKTO TRIBE)
+- [Crazy Control Sound System](https://www.facebook.com/Crazy-control-sound-system-203149333887018/) djs
+- [BlackDrop Sound System](https://www.facebook.com/BlackDropSound/) djs
 
 ### TBC
 

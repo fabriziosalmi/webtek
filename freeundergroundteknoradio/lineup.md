@@ -40,13 +40,13 @@ All stream sessions will be shared to the following spaces:
 - [Z-Side](https://www.facebook.com/ZSide/) (TEKITEAZY/TIME CONTROL RECORDS)
 - [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
 - Pippo Laminal (ACID DROPS)
+- [RNZ_Raving](https://www.facebook.com/RnzRaving) vs [LMB](https://www.facebook.com/LmbTeknoNoise/) (TEKNO NOISE)
 
 ### Sunday 21
 
 - [Shockraver](https://www.facebook.com/shockraver23)
 - B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
 - Panzok
-- RNZ_Raving vs LMB (TEKNO NOISE)
 - [Dj Mohm](https://www.facebook.com/profile.php?id=100008772453456) + Cali Khali (ALEATOIRE SOUND)
 - [Vladdy](https://www.facebook.com/vladdy.tribe.7) + [Marterz](https://www.facebook.com/ric.marter.90) (OKTO TRIBE)
 - [Crazy Control Sound System](https://www.facebook.com/Crazy-control-sound-system-203149333887018/) djs

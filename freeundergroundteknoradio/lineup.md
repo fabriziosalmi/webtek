@@ -37,12 +37,13 @@ All stream sessions will be shared to the following spaces:
 - [LDM](https://www.facebook.com/lorenzo.dimaggio.52) (VINILIKA CREW)
 - [Fuckin' Frankie](https://www.facebook.com/profile.php?id=1387816675) (ZAPOTEK)
 - [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
-- [Z-Side](https://www.facebook.com/ZSide/)
+- [Z-Side](https://www.facebook.com/ZSide/) (TEKITEAZY/TIME CONTROL RECORDS)
 - [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
 - Pippo Laminal (ACID DROPS)
 
 ### Sunday 21
 
+- [Shockraver](https://www.facebook.com/shockraver23)
 - B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
 - Panzok
 - RNZ_Raving vs LMB (TEKNO NOISE)
@@ -53,7 +54,6 @@ All stream sessions will be shared to the following spaces:
 
 ### TBC
 
-- Shockraver
 - Gigi (NBK)
 - ALIEN KML crew
 - Jordano (MOD)

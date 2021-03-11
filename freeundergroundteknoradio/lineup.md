@@ -46,8 +46,7 @@ All stream sessions will be shared to the following spaces:
 - B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
 - Panzok
 - RNZ_Raving vs LMB (TEKNO NOISE)
-- Cali Khali (ALEATOIRE SOUND)
-- Dj Mohm
+- [Dj Mohm](https://www.facebook.com/profile.php?id=100008772453456) + Cali Khali (ALEATOIRE SOUND)
 - [Vladdy](https://www.facebook.com/vladdy.tribe.7) + [Marterz](https://www.facebook.com/ric.marter.90) (OKTO TRIBE)
 - [Crazy Control Sound System](https://www.facebook.com/Crazy-control-sound-system-203149333887018/) djs
 - [BlackDrop Sound System](https://www.facebook.com/BlackDropSound/) djs

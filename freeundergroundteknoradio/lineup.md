@@ -26,6 +26,7 @@ All stream sessions will be shared to the following spaces:
 - DJ Wade + Sandro Patch (FMT)
 - [Ixindamix](https://www.facebook.com/Ixindamix) (SP23)
 - [Crystal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
+- [Maskk](https://www.facebook.com/maskklive/) (KERNEL PANIK)
 
 ### Saturday 20
 
@@ -39,8 +40,7 @@ All stream sessions will be shared to the following spaces:
 - [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
 - [Z-Side](https://www.facebook.com/ZSide/)
 - [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
-- [Maskk](https://www.facebook.com/maskklive/) (KERNEL PANIK)
-- - Pippo Laminal (ACID DROPS)
+- Pippo Laminal (ACID DROPS)
 
 ### Sunday 21
 
@@ -49,6 +49,7 @@ All stream sessions will be shared to the following spaces:
 - RNZ_Raving vs LMB (TEKNO NOISE)
 - Cali Khali (ALEATOIRE SOUND)
 - Dj Mohm
+- Vladdy + Marterz (OKTO TRIBE)
 
 ### TBD
 
@@ -58,7 +59,6 @@ All stream sessions will be shared to the following spaces:
 ### TBC
 
 - Shockraver
-- Vladdy (OKTO TRIBE)
 - Gigi (NBK)
 - ALIEN KML crew
 - Jordano (MOD)

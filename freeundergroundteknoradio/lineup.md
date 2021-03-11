@@ -47,6 +47,8 @@ All stream sessions will be shared to the following spaces:
 - B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
 - Panzok
 - RNZ_Raving vs LMB (TEKNO NOISE)
+- Cali Khali (ALEATOIRE SOUND)
+- Dj Mohm
 
 ### TBD
 

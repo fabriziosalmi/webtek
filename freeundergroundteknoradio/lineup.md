@@ -24,8 +24,8 @@ All stream sessions will be shared to the following spaces:
 
 - [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
 - DJ Wade + Sandro Patch (FMT)
-- [Ixindamix](https://www.facebook.com/Ixindamix) live (SP23)
-- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) djset (SP23)
+- [Ixindamix](https://www.facebook.com/Ixindamix) (SP23)
+- [Cristal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
 
 ### Saturday 20
 
@@ -39,7 +39,8 @@ All stream sessions will be shared to the following spaces:
 - [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
 - [Z-Side](https://www.facebook.com/ZSide/)
 - [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
-- Pippo Laminal (ACID DROPS)
+- [Maskk](https://www.facebook.com/maskklive/) (KERNEL PANIK)
+- - Pippo Laminal (ACID DROPS)
 
 ### Sunday 21
 

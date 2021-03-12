@@ -23,7 +23,7 @@ All stream sessions will be shared to the following spaces:
 ### Friday 19
 
 - [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
-- DJ Wade + Sandro Patch (FMT)
+- [DJ Wade](https://www.facebook.com/giovanni.venditti.927) + Sandro Patch (FMT / ZERO KONTROL RECORDS)
 - [Ixindamix](https://www.facebook.com/Ixindamix) (SP23)
 - [Crystal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
 - [Maskk](https://www.facebook.com/maskklive/) (KERNEL PANIK)
@@ -37,10 +37,11 @@ All stream sessions will be shared to the following spaces:
 - [LDM](https://www.facebook.com/lorenzo.dimaggio.52) (VINILIKA CREW)
 - [Fuckin' Frankie](https://www.facebook.com/profile.php?id=1387816675) (ZAPOTEK)
 - [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
-- [Z-Side](https://www.facebook.com/ZSide/) (TEKITEAZY/TIME CONTROL RECORDS)
+- [Z-Side](https://www.facebook.com/ZSide/) (TEKITEAZY / TIME CONTROL RECORDS)
 - [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
 - Pippo Laminal (ACID DROPS)
 - [RNZ_Raving](https://www.facebook.com/RnzRaving) vs [LMB](https://www.facebook.com/LmbTeknoNoise/) (TEKNO NOISE)
+- [BlackDrop Sound System](https://www.facebook.com/BlackDropSound/) djs Castel/Kimik/
 
 ### Sunday 21
 
@@ -50,7 +51,7 @@ All stream sessions will be shared to the following spaces:
 - [Dj Mohm](https://www.facebook.com/profile.php?id=100008772453456) + Cali Khali (ALEATOIRE SOUND)
 - [Vladdy](https://www.facebook.com/vladdy.tribe.7) + [Marterz](https://www.facebook.com/ric.marter.90) (OKTO TRIBE)
 - [Crazy Control Sound System](https://www.facebook.com/Crazy-control-sound-system-203149333887018/) djs
-- [BlackDrop Sound System](https://www.facebook.com/BlackDropSound/) djs
+
 
 ### TBC
 

@@ -20,6 +20,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 - [TELEGRAM](https://t.me/streamingteknival)
 - [WEBSITE](https://webtek.live)
+- [REDDIT](https://www.reddit.com/r/WebTek/)
 
 *Powered by*
 

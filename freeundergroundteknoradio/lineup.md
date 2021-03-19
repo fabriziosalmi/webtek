@@ -1,73 +1,72 @@
-# Free Underground Tekno @ WebTeK 
+# [Free Underground Tekno Radio](https://www.facebook.com/Free.Underground.Tekno.Radio/) line up @ [WebTeK XVIII](https://www.facebook.com/events/473975483781586)
 
-**WEBTEK 15: https://www.facebook.com/events/932163350504838/** *please share* ❤️
+- If you already reserved your slot you will receive Free Underground Tekno Radio stream key for Facebook page very soon
+- If you need tech support I can help, please [mail me](fabrizio.salmi@gmail.com), [PM me on Telegram/Whatsapp](+393409727857) or DM me on [FB](https://www.facebook.com/streaming.teknival/)/[Instagram](https://www.instagram.com/fab_spaceinvaders/)
+- If you scared about copyright issues You will receive a stream key for Twitter (Periscope) which should works with no "mute block" most of the times
+- Some sessions will be boosted using restream.io PRO account (by broadcasting to multiple platforms same time: YouTube/FB/Twitter)
 
-- **for any inquiry** just write me on [FB](https://www.facebook.com/streaming.teknival) / [GMail](fabrizio.salmi@gmail.com) or read the [wiki](https://github.com/fabriziosalmi/webtek/wiki)
-- **Free Underground Tekno Radio dates and sessions** TBD
-- **self hosted schedule**: any time, any day from 1/DEC to 31/DEC/2018 (min. 1H, live or djset)
-- **where??**: anywhere (room, secret location, TAZ, asso.., a friendly place where u can play and broadcast/stream)
-- **how??**: camera is not required, we want music.. visuals are welcome anyway :DDD
+## Audience
+
+All stream sessions will be shared to the following spaces:
+
+- [WebTeK FB page](https://www.facebook.com/Worldwide.Streaming.Teknival/)
+- [Facebook event](https://www.facebook.com/events/473975483781586)
+- [Free Underground Tekno Radio page](https://www.facebook.com/Free.Underground.Tekno.Radio/)
+- [Free Underground Tekno Radio group](https://www.facebook.com/groups/free.underground.tekno/)
+- [Telegram channel](https://t.me/streamingteknival)
+- [WebTeK website](https://webtek.live)
+
+## LINE UP 
+
+- WARNING!!! For any line up cancel/change/etc pls write me I'll update this page ASAP :)
+
+### Friday 19
+
+- [Emix](https://www.facebook.com/emix.boss) live (Streaming Project)
+- [DJ Wade](https://www.facebook.com/giovanni.venditti.927) + Sandro Patch (FMT / ZERO KONTROL RECORDS)
+- [Ixindamix](https://www.facebook.com/Ixindamix) (SP23)
+- [Crystal Distortion](https://www.facebook.com/crystaldistortion23) (SP23)
+- [Maskk](https://www.facebook.com/maskklive/) (KERNEL PANIK)
+
+### Saturday 20
+
+- [Silvia Wally](https://www.facebook.com/silviawallyx) (LOONEY TUNZ)
+- [Antony C](https://www.facebook.com/profile.php?id=100005388945452) + Pirate Control (PUZZLE)
+- [DJ Orz](https://www.facebook.com/djorzkk) (KERNEL PANIK)
+- [Undermatic](https://www.facebook.com/andrea.undermatic) + Max (SPACE INVADERS)
+- [LDM](https://www.facebook.com/lorenzo.dimaggio.52) (VINILIKA CREW)
+- [Fuckin' Frankie](https://www.facebook.com/profile.php?id=1387816675) (ZAPOTEK)
+- [Shivo](https://www.facebook.com/lorenzo.shivo.nbk) (80HZ)
+- [Z-Side](https://www.facebook.com/ZSide/) (TEKITEAZY / TIME CONTROL RECORDS)
+- [Joker](https://www.facebook.com/samu.jkrfamilytekcrew) (FTK)
+- Pippo Laminal (ACID DROPS)
+- [RNZ_Raving](https://www.facebook.com/RnzRaving) vs [LMB](https://www.facebook.com/LmbTeknoNoise/) (TEKNO NOISE)
+- [BlackDrop Sound System](https://www.facebook.com/BlackDropSound/) djs Castel/Kimik/
+
+### Sunday 21
+
+- [Shockraver](https://www.facebook.com/shockraver23)
+- B2B [R-Type](https://www.facebook.com/frekzo.betso) (FREAKBEATS) + [fab](https://www.facebook.com/streaming.teknival/) (SPACE INVADERS)
+- Panzok
+- [Dj Mohm](https://www.facebook.com/profile.php?id=100008772453456) + Cali Khali (ALEATOIRE SOUND)
+- [Vladdy](https://www.facebook.com/vladdy.tribe.7) + [Marterz](https://www.facebook.com/ric.marter.90) (OKTO TRIBE)
+- [Crazy Control Sound System](https://www.facebook.com/Crazy-control-sound-system-203149333887018/) djs
 
 
-## Events
+### TBC
 
-**DEC 1** hosted by [RadioCittàAperta](http://www.radiocittaperta.it/)
+- Gigi (NBK)
+- ALIEN KML crew
+- Jordano (MOD)
+- many more.. 
 
-- [DJ KILFA](https://www.facebook.com/DJ.KILFA/) interview + dj set
-- [Pablito El Drito](https://www.facebook.com/pablitoeldritodj/) interview: author of Rave in Italy and Once were ravers books
+## Flyer/Art
 
-**DEC 2**
+- [Nina Bat](https://www.facebook.com/Nino.BlackBat)
 
-- [Shockraver](https://www.facebook.com/shockraver23/) djset
-- [MGL](https://www.facebook.com/mgl32/) live
-- [Davide Blackqirex](https://www.facebook.com/Blackqirex-337143289641041/) [NewSpecies](https://www.facebook.com/NOTFORHUMANS/) djset
+## More info
 
-**DEC 5**
-
-- Symbiosis live [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
-- DJ Drugo djset [SMASH PROJECT CREW](https://www.facebook.com/SmashProject/)
-
-**DEC 9** hosted by *EMS Teknomotive*
-
-- [EMS](https://www.facebook.com/emsteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
-- [Molotov](https://www.facebook.com/molotovteknomotive/) [Teknomotive](https://www.facebook.com/Tekno-Motive-Sound-System-163194617107451/)
-- [fab](https://www.facebook.com/streaming.teknival) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- DOOM23
-- TEKDOG aka BRUTAL DOG
-
-**DEC 9** 
-
-- BrigaDajeForte vs Vinilika crew
-
-**DEC 31** 
-
-- [Undermatic](https://www.facebook.com/andrea.undermatic) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- [Sundreeno](https://www.facebook.com/alessandro.pagliaro.3) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- [p4k1d3rm](https://www.facebook.com/P4KID3RM/) [Space Invaders Tekno Sound](https://www.facebook.com/spaceinvaderstekno/)
-- ..and friends ^_^
-
-**DEC ??** TBC
-
-- [Sbume](https://www.facebook.com/sbumee/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
-- [Robyuan](https://www.facebook.com/Robyuankerobyofficial/) [Circuit Gang](https://www.facebook.com/Circuitgang/)
-- [Sushi](https://soundcloud.com/sushi_hc) [Circuit Gang](https://www.facebook.com/Circuitgang/)
-- [Wizzy](https://www.facebook.com/wizzy.tkw/) [TKW](https://www.facebook.com/woodoosoundsystem/)
-- Italo TBC
-- Fuckin'Frankie TBC
-- Shivo TBC
-- more to be confirmed ^_^
-
-## Streaming platforms
-
-To watch the events you can use the following links:
-
-- [Facebook](https://www.facebook.com/Free.Underground.Tekno.Radio/)
-- [YouTube](https://www.youtube.com/channel/UC4Qa1dYujyjeilj1YCIGJtw)
-- [Twitch](https://www.twitch.tv/freeundergroundtekno/)
-- [Periscope](https://pscp.tv/freeundergroundtekno)
-- [Stream.me](https://www.stream.me/freetekno23)
-- [Mixer](https://mixer.com/freetekno23)
-
-Maybe some events will be shared only to [Free Underground Tekno Facebook page](https://www.facebook.com/Free.Underground.Tekno.Radio/). 
-Our page is public: no account required, no TAZ info ^_^
-
+- Some stream sessions, if possible, will be shared via real sound systems.. Old school will never die!!
+- You can join the project not only by playing or listening music but also by sharing stream links to your friends, it's up to You ^_^
+- You can ask support to Free Underground Tekno, FreakBeats TeknoRadio, Fanat3k Radio and a lot of people who already joined the WEBTEK creature in the past.
+- All sounds, performers, hackers and aliens are welcome!!

@@ -1,16 +1,13 @@
 # WebTeK artists 
 
-Here you can find a full list of people who played @ WebTeK streaming festivals.
+Here you can find a list of people who played @ WebTeK streaming festival editions across years 🔊
+This is is uncomplete, please help me if you have recordings links!
 
 ## WEBTEK 1
 
 - Antonello (Puzzle)
-- LDM (BDF/enjoy Pirateria)
-- Luchino (BDF/enjoy Pirateria)
-- Silvia Trix (BDF/enjoy Pirateria)
-- Paolo Zerla (BDF/enjoy Pirateria)
-- Beat'N'Kill (BDF/enjoy Pirateria)
-- Fab (Space Invaders Tekno Sound)
+- LDM, Luchino, Silvia Trix, Paolo Zerla, Beat'N'Kill (BDF/enjoy Pirateria)
+- Space Invaders Tekno Sound
 - L3L3
 
 ## WEBTEK 2

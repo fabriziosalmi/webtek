@@ -253,3 +253,29 @@ Here you can find a full list of people who played @ WebTeK streaming festivals.
 - [Metalloïde (Produc'Sounds)](https://www.youtube.com/watch?v=RcQ92-XGle4)
 - Surprise
 - [Hak Hira](https://www.youtube.com/watch?v=LDyfgWtBOHM)
+
+## WEBTEK 18
+
+- Emix live (Streaming Project)
+- DJ Wade + Sandro Patch (FMT / ZERO KONTROL RECORDS)
+- Ixindamix (SP23)
+- Crystal Distortion (SP23)
+- Maskk (KERNEL PANIK)
+- Silvia Wally (LOONEY TUNZ)
+- Antony C + Pirate Control (PUZZLE)
+- DJ Orz (KERNEL PANIK)
+- Undermatic + Max (SPACE INVADERS)
+- LDM (VINILIKA CREW)
+- Fuckin' Frankie (ZAPOTEK)
+- Shivo (80HZ)
+- Z-Side (TEKITEAZY / TIME CONTROL RECORDS)
+- Joker (FTK)
+- Pippo Laminal (ACID DROPS)
+- RNZ_Raving vs LMB (TEKNO NOISE)
+- BlackDrop Sound System djs Castel/Kimik/
+- Shockraver
+- B2B R-Type (FREAKBEATS) + fab (SPACE INVADERS)
+- Panzok
+- Dj Mohm + Cali Khali (ALEATOIRE SOUND)
+- Vladdy + Marterz (OKTO TRIBE)
+- Crazy Control Sound System djs

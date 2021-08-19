@@ -11,10 +11,10 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event, WEBTEK 18
+## Next event, WEBTEK 19
 
-- WHAT? WEBTEK => 18th edition
-- WHEN? MARCH 2021
+- WHAT? WEBTEK => 19th edition
+- WHEN? OCTOBER 2021
 
 *Where*
 

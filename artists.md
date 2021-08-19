@@ -254,6 +254,26 @@ Here you can find a full list of people who played @ WebTeK streaming festivals.
 - Surprise
 - [Hak Hira](https://www.youtube.com/watch?v=LDyfgWtBOHM)
 
+### WEBTEK 17
+
+- [Ixindamix - SP23](https://www.facebook.com/102812661362704/videos/382897959497805/)
+- [DJ Tal - SP23](https://www.facebook.com/LoveAndDirectTV/videos/1288379918214048)
+- [Dave The Drummer](https://www.facebook.com/DJDaveTheDrummer/videos/299872054520884)
+- [R-Type](https://www.facebook.com/freaks23/videos/4976036569073195)
+- [Salvo Errori / La Roboterie](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/835478650567233/)
+- [Andrea RNZ / Tekno Noise Crew](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/177500100685438)
+- [Kinsei](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/199966678248767)
+- [Sonik / Latitanz Reloaded](https://www.facebook.com/freaks23/videos/716612675901196)
+- [Dino / Babuzzi](https://www.facebook.com/dino.babuzzi/videos/1013526002501080)
+- [G2BorderLine](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/907086606497744)
+- [TeknoMoon & DjTaddaa](https://www.facebook.com/freaks23/videos/458346625130009)
+- [Acid Marfi / Dystopia Store](https://www.facebook.com/freaks23/videos/3826473014063441)
+- [GG Alien](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/1084821835302330)
+- [Antony C + Pirate Control + FRKZ + Byana / Puzzle](https://www.facebook.com/Free.Underground.Tekno.Radio/videos/405906920594500)
+- [Hazmat Skatek](https://www.facebook.com/freaks23/videos/2621939378116924)
+- [Peter 303](https://www.facebook.com/freaks23/videos/289859055704407)
+- [Speedlabor & Mrln (ISD Crew)](https://www.youtube.com/watch?v=3_kI1SVs-Gk)
+
 ## WEBTEK 18
 
 - [Emix StreamingProject](https://www.facebook.com/70540914765/posts/10159538220474766/)

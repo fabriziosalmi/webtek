@@ -20,7 +20,7 @@ Let' start!
 
 - Service: Facebook
 - Server:  automatic
-- Stream key: ***************** [retrieve key](mailto:fabrizio.salmi@gmail.com or pm streaming.teknival on FB)
+- Stream key: [retrieve key](mailto:fabrizio.salmi@gmail.com)
 or use your own profile/page.
 
 **Output**

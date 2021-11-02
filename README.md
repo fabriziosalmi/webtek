@@ -11,10 +11,10 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event, WEBTEK 19
+## Next event, WEBTEK 20
 
-- WHAT? WEBTEK => 19th edition
-- WHEN? OCTOBER 2021
+- WHAT? WEBTEK => 20th edition
+- WHEN? MARCH 2022
 
 *Where*
 
@@ -42,9 +42,11 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 - [Free Sounds by Free Underground Tekno](https://sound.freeundergroundtekno.org/)
 - [FreeTeknoMusic.org archive](https://freeteknomusic.org/)
+- [Free Underground Tekno Radio](https://radio.free-tekno.com)
 
 ### Video
 
+- [will be updated soon..]
 - [WebTeK 16](https://www.facebook.com/events/3569873273086963/)
 - [WebTeK 15](https://www.facebook.com/events/932163350504838/)
 - [WebTeK 14](https://www.facebook.com/events/1775114982505491/)

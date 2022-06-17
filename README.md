@@ -44,8 +44,8 @@ For custom streaming links just send us on Telegram/Facebook and we will re-post
 ### Audio
 
 - [FreeTeknoMusic.org](https://freeteknomusic.org/)
-- [Free Underground Tekno](https://t.me/freeundergroundtekno))
-- [Free Sounds]([https://sound.freeundergroundtekno.org/](https://github.com/fabriziosalmi/freesounds-archive/))
+- [Free Underground Tekno](https://t.me/freeundergroundtekno)
+- [Free Sounds](https://github.com/fabriziosalmi/freesounds-archive/)
 - 
 ### Video
 

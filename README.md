@@ -14,7 +14,7 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 ## Next event, WEBTEK 20
 
 - WHAT? WEBTEK => 20th edition
-- WHEN? MARCH 2022
+- WHEN? 21-22-23 OCTOBER 2022
 
 *Where*
 
@@ -40,13 +40,15 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 
 ### Audio
 
-- [Free Sounds by Free Underground Tekno](https://sound.freeundergroundtekno.org/)
-- [FreeTeknoMusic.org archive](https://freeteknomusic.org/)
-- [Free Underground Tekno Radio](https://radio.free-tekno.com)
-
+- [FreeTeknoMusic.org](https://freeteknomusic.org/)
+- [Free Underground Tekno](https://t.me/freeundergroundtekno))
+- [Free Sounds]([https://sound.freeundergroundtekno.org/](https://github.com/fabriziosalmi/freesounds-archive/))
+- 
 ### Video
 
-- [will be updated soon..]
+- [WebTeK 19](https://www.facebook.com/events/145403824138880/)
+- [WebTeK 18](https://www.facebook.com/events/473975483781586/)
+- [WebTeK 17](https://www.facebook.com/events/442048070094479/)
 - [WebTeK 16](https://www.facebook.com/events/3569873273086963/)
 - [WebTeK 15](https://www.facebook.com/events/932163350504838/)
 - [WebTeK 14](https://www.facebook.com/events/1775114982505491/)

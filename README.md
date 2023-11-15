@@ -20,7 +20,8 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [TELEGRAM](https://t.me/streamingteknival)
 - [WEBSITE](https://webtek.live)
 - [REDDIT](https://www.reddit.com/r/WebTek/)
-- [FACEBOOK](https://www.facebook.com/100032191556080/posts/pfbid02cLagJc2tNwcA4JY1WUsDVgdD8AUXKcKtzCXVa6XkSVyQiChTfUtfPvZoQdZL8XSXl/)
+- [FACEBOOK](https://www.facebook.com/events/1599923720536526/)
+
 
 For custom streaming links just send us on Telegram/Facebook and we will re-post in all platforms (no Bu$ine$$).
 

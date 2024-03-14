@@ -11,9 +11,9 @@ This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
-## Next event, WEBTEK 21
+## Next event, WEBTEK 22
 
-- 7-10 December 2023
+- TBD
 
 *Where*
 
@@ -48,6 +48,7 @@ For custom streaming links just send us on Telegram/Facebook and we will re-post
 - 
 ### Video
 
+- [WebTek 21](https://facebook.com/events/s/webtek-xxi-streaming-teknival/1599923720536526/)
 - [WebTek 20](https://www.facebook.com/events/565270335183674/)
 - [WebTeK 19](https://www.facebook.com/events/145403824138880/)
 - [WebTeK 18](https://www.facebook.com/events/473975483781586/)

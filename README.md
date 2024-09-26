@@ -6,21 +6,14 @@ The __WebTeK__ is __the most popular free tekno streaming teknival__ with live d
 
 This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/), [FreakBeats TeknoRadio](https://www.facebook.com/freaks23/) and friends since 2010.
 
-- [WebTeK website](https://webtek.live/)
-- [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
+- [Website](https://webtek.live/)
+- [Telegram](https://t.me/streamingteknival)
+- [Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
+- [Reddit](https://www.reddit.com/r/WebTek/)
 
-## Next event, WEBTEK 22
+## Next one? WEBTEK 22 (WXXII)
 
-- TBD
-
-*Where*
-
-- [TELEGRAM](https://t.me/streamingteknival)
-- [WEBSITE](https://webtek.live)
-- [REDDIT](https://www.reddit.com/r/WebTek/)
-- [FACEBOOK](https://www.facebook.com/100032191556080/posts/pfbid02cLagJc2tNwcA4JY1WUsDVgdD8AUXKcKtzCXVa6XkSVyQiChTfUtfPvZoQdZL8XSXl/)
-
-For custom streaming links just send us on Telegram/Facebook and we will re-post in all platforms (no Bu$ine$$).
+- NOV 2024
 
 *Powered by*
 

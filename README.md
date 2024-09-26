@@ -38,7 +38,7 @@ For custom streaming links just send us on Telegram/Facebook and we will re-post
 
 ### Images
 
-- [WebTeK flyers since 2010](https://github.com/fabriziosalmi/webtek/tree/master/img)
+- [WebTeK flyers since 2010](https://github.com/fabriziosalmi/webtek/blob/master/flyers.md)
 
 ### Audio
 

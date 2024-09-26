@@ -1,45 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Free Underground Tekno - WebTeK 16 (10 years!!)</title>
+<head>
     <meta charset="UTF-8">
-    <meta name="language" content="en-GB" />
-    <meta name="description" content="21 Marzo 2020 dalle 16 alle 04 a Cascina Autogestita Torchiera (Milano) - WebTeK by Free Underground Tekno Radio feat. Space Invaders, Teknomotive, Shockraver, Blacqkirex, MGL vs Keno, FMT and friends." />
-    <meta name="keywords" content="free underground tekno,webtek,webtek 16,teknival,streaming,tekno,underground,tribe" />
-    <meta name="robots" content="all" />
-    <meta name="revisit-after" content="1" />
-    <meta name="author" content="fab" />
-    <meta name="reply-to" content="fabrizio.salmi@gmail.com" />
-    <meta http-equiv="Cache-control" content="public">
-    <meta property="og:type" content="website">
-    <meta property="fb:app_id" content="409757585815723">
-    <meta property="og:title" content="WEBTEK STREAMING TEKNIVAL">
-    <meta property="og:description" content="WebTeK: open to all artists, sounds, hackers and aliens.">
-    <meta property="og:url" content="https://webtek.live">
-    <meta property="og:image" content="https://webtek.live/fb_prof.png"> 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Chakra+Petch" rel="stylesheet">
-    <link href="css/freeundergroundtekno.css" rel="stylesheet">	  
-  </head>
-<body class="strobo">
- <div class="container-fluid">
-	    <div class="row">
-		    <div class="centered col-md-12">
-			    <h1>Free Underground Tekno Radio @ WebTeK 16</h1>
-			    <h2 style="color: red;"><a href="https://www.facebook.com/events/180126026554624/">-=10 YEARS!!=-</a></h2>
-		    </div>
-	    </div>
-	<div class="row" class="centered col-md-12">
-		<br><br><br>
-		<iframe width="100%" height="315" src="https://www.youtube.com/embed/zXhuXd0V50Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<br><br><br>
-	 </div>
-</div>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/scripts.js"></script>
-  </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Underground Tekno Radio</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            position: relative;
+            text-align: center;
+            z-index: 1;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .embed-widget {
+            width: 100%;
+            min-height: 150px;
+            border: 0;
+        }
+
+        .dots {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .dot {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background-color: white;
+            border-radius: 50%;
+            animation: flicker 2s infinite alternate;
+        }
+
+        @keyframes flicker {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <iframe src="https://radio.free-tekno.com/public/free_underground_tekno/embed?theme=dark" frameborder="0" allowtransparency="true" class="embed-widget"></iframe>
+    </div>
+    <div class="dots"></div>
+
+    <script>
+        // Function to create random dots for the hallucination effect
+        function createDots() {
+            const dotsContainer = document.querySelector('.dots');
+            const numberOfDots = 50; // Number of dots to display
+
+            for (let i = 0; i < numberOfDots; i++) {
+                const dot = document.createElement('div');
+                dot.classList.add('dot');
+                dot.style.top = Math.random() * 100 + 'vh';
+                dot.style.left = Math.random() * 100 + 'vw';
+                dot.style.animationDuration = Math.random() * 3 + 1 + 's';
+                dotsContainer.appendChild(dot);
+            }
+        }
+
+        // Call the function to create dots on page load
+        window.onload = createDots;
+    </script>
+</body>
 </html>
+

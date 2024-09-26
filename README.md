@@ -6,7 +6,7 @@ The __WebTeK__ is __the most popular free tekno streaming teknival__ with live d
 > *WebTeK is 100% free and open to all artists, collectives, hackers and aliens!*
 
 ## Links
-Here we will spread your streaming links during the event:
+Here we will spread your own streaming link during the event:
 
 - [Website](https://webtek.live/)
 - [Telegram](https://t.me/streamingteknival)
@@ -21,7 +21,8 @@ Please contact radio owners if you want to feature on the channels listed here:
 - [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [ISD Crew](https://www.twitch.tv/isdcrew)
-- [Independent djs, producers, sound systems, networks](https://github.com/fabriziosalmi/webtek/blob/master/artists.md)
+
+Here a [list of independent djs, producers, sound systems and networks](https://github.com/fabriziosalmi/webtek/blob/master/artists.md) who joined the WebTeK project across years.
 
 ## Next one: WebTeK 22 (WXXII)
 

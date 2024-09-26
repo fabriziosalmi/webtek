@@ -1,2 +1,0 @@
-language: php
-script: phpunit test2.php

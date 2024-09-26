@@ -1,6 +1,6 @@
 # WebTeK StReaMiNg TeKniVaL
 
-The __WebTeK__ is __the most popular free tekno streaming teknival__ with live dj sessions from all over the world ever seen in the human history.
+The __WebTeK__ is __the most popular free tekno streaming teknival__ with live dj sessions from all over the world.
 
 > [!WARNING]
 > *WebTeK is 100% free and open to all artists, collectives, hackers and aliens!*

@@ -21,71 +21,108 @@
             color: #fff;
             margin: 0;
             padding: 0;
-            transition: filter 0.3s ease-in-out;
+            transition: background 3s ease-in-out, color 3s ease-in-out;
         }
+
+        /* Keyframes for hallucination-like color transition */
+        @keyframes hallucination {
+            0% { background-color: #000; color: #fff; }
+            25% { background-color: #ff00ff; color: #00ff00; }
+            50% { background-color: #0000ff; color: #ffff00; }
+            75% { background-color: #00ffff; color: #ff0000; }
+            100% { background-color: #000; color: #fff; }
+        }
+
         header {
             background-color: #111;
             padding: 20px;
             text-align: center;
             border-bottom: 2px solid #FFFF00;
         }
+
         header .logo img {
             max-width: 150px;
             border-radius: 50%;
         }
+
         nav ul {
             list-style: none;
             padding: 0;
         }
+
         nav ul li {
             display: inline-block;
             margin: 10px;
         }
+
         nav ul li a {
             color: #FFFF00;
             text-decoration: none;
             font-weight: bold;
         }
+
         .hero {
             text-align: center;
             padding: 50px 20px;
-            background: url('https://webtek.live/circular-halftone-dots-vector-background_1017-12226') no-repeat center center/cover;
         }
+
         .hero h1 {
             font-size: 3rem;
             margin: 0;
             color: #FFFF00;
             text-shadow: 2px 2px 4px #000;
         }
+
         .hero p {
             font-size: 1.5rem;
             color: #FFFF00;
             text-shadow: 1px 1px 3px #000;
         }
-        .hero .btn {
-            background-color: #FFFF00;
-            color: #000;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 20px;
+
+        /* Logo and yellow circle mask */
+        .logo {
+            position: relative;
             display: inline-block;
-            font-weight: bold;
-            box-shadow: 0px 0px 10px #FFFF00;
         }
-        .hero .btn:hover {
-            background-color: #FFD700;
+
+        .logo a {
+            position: relative;
+            z-index: 2;
         }
+
+        .logo a img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .logo::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 180px;
+            height: 180px;
+            background-color: #FFFF00;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+        }
+
         .channels {
             text-align: center;
             padding: 40px 20px;
             background-color: #111;
         }
+
         .channels h2 {
             font-size: 2.5rem;
             color: #FFFF00;
             text-shadow: 2px 2px 4px #000;
         }
+
         .channel-list a {
             display: block;
             color: #FFFF00;
@@ -93,9 +130,11 @@
             text-decoration: none;
             font-size: x-large;
         }
+
         .channel-list a:hover {
             text-decoration: underline;
         }
+
         footer {
             background-color: #111;
             text-align: center;
@@ -104,13 +143,16 @@
             color: #FFFF00;
             border-top: 2px solid #FFFF00;
         }
+
         footer a {
             color: #FFFF00;
             text-decoration: none;
         }
+
         footer a:hover {
             text-decoration: underline;
         }
+
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 2.5rem;
@@ -135,14 +177,14 @@
             <p>The biggest underground tekno festival with live DJ sessions worldwide.</p>
             <div class="logo">
                 <a class="btn" href="https://t.me/streamingteknival" target="_blank" rel="noopener">
-                    <img src="webtek_logo.png" alt="WebTeK Logo" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+                    <img src="webtek_logo.png" alt="WebTeK Logo">
                 </a>
             </div>
         </section>
 
         <section class="channels">
             <h2>Featured Channels</h2>
-            <div class="channel-list" style="font-size: x-large;">
+            <div class="channel-list">
                 <a href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FreakBeats TeknoRadio</a>
                 <a href="https://webtek.live/fr/" target="_blank" rel="noopener">Fanat3k Radio</a>
                 <a href="https://www.facebook.com/Free.Underground.Tekno.Radio/" target="_blank" rel="noopener">Free Underground Tekno</a>
@@ -188,16 +230,12 @@
         <p>copyleft 2010-2024 WebTeK Streaming Teknival and friends | <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">More Info</a></p>
     </footer>
 
-    <!-- JavaScript for Random Color Inversion -->
+    <!-- JavaScript for Smooth Hallucination-Like Color Transition -->
     <script>
-        function randomColorInversion() {
-            const randomTime = Math.floor(Math.random() * 10000) + 5000; // Random interval between 5-15 seconds
-            setTimeout(() => {
-                document.body.style.filter = document.body.style.filter === "invert(1)" ? "invert(0)" : "invert(1)";
-                randomColorInversion();
-            }, randomTime);
+        function hallucinationColors() {
+            document.body.style.animation = "hallucination 10s infinite";
         }
-        randomColorInversion();
+        hallucinationColors();
     </script>
 </body>
 </html>

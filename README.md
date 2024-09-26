@@ -42,10 +42,10 @@ For custom streaming links just send us on Telegram/Facebook and we will re-post
 
 ### Audio
 
+- [Free Underground Tekno Radio](https://radio.free-tekno.com)
+- [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [FreeTeknoMusic.org](https://freeteknomusic.org/)
-- [Free Underground Tekno](https://t.me/freeundergroundtekno)
-- [Free Sounds](https://github.com/fabriziosalmi/freesounds-archive/)
-- 
+ 
 ### Video
 
 - [WebTek 21](https://facebook.com/events/s/webtek-xxi-streaming-teknival/1599923720536526/)

@@ -2,30 +2,32 @@
 
 The __WebTeK__ is __the most popular free tekno streaming teknival__ with live dj sessions from all over the world ever seen in the human history.
 
-- *WebTeK is 100% free and open to all artists, collectives, hackers and aliens!*
+> [!WARNING]
+> *WebTeK is 100% free and open to all artists, collectives, hackers and aliens!*
 
-This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/), [FreakBeats TeknoRadio](https://www.facebook.com/freaks23/) and friends since 2010.
+## Links
+Here we will spread your streaming links during the event:
 
 - [Website](https://webtek.live/)
 - [Telegram](https://t.me/streamingteknival)
 - [Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 - [Reddit](https://www.reddit.com/r/WebTek/)
-
-## Next one? WEBTEK 22 (WXXII)
-
-- NOV 2024
-
-*Powered by*
+  
+## Powered by
+Please contact radio owners if you want to feature on web radio or established video channels:
 
 - [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
 - [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)
 - [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [ISD Crew](https://www.twitch.tv/isdcrew)
-- Independent djs, producers, sound systems, networks: **[artists list](https://github.com/fabriziosalmi/webtek/blob/master/artists.md)**.
+- [Independent djs, producers, sound systems, networks](https://github.com/fabriziosalmi/webtek/blob/master/artists.md)
 
+## Next one: WebTeK 22 (WXXII)
 
-## WEBTEK archives
+- When? [1-3 November 2024](https://www.facebook.com/events/418998857502288/) (TBC)
+
+## Archives
 
 ### Images
 

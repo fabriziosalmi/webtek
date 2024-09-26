@@ -1,7 +1,0 @@
-organization=fabriziosalmi-github
-projectKey=fabriziosalmi_webtek
-serverUrl=https://sonarcloud.io
-serverVersion=7.4.0.18624
-dashboardUrl=https://sonarcloud.io/dashboard?id=fabriziosalmi_webtek
-ceTaskId=AWacWUXiCpA56q9LYqJu
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWacWUXiCpA56q9LYqJu

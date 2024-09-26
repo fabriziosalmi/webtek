@@ -14,7 +14,7 @@ Here we will spread your streaming links during the event:
 - [Reddit](https://www.reddit.com/r/WebTek/)
   
 ## Powered by
-Please contact radio owners if you want to feature on web radio or established video channels:
+Please contact radio owners if you want to feature on the channels listed here:
 
 - [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/)
 - [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/)

@@ -6,8 +6,6 @@ The __WebTeK__ is __the most popular free tekno streaming teknival__ with live d
 
 This event is powered by [Fanat3k Radio](https://www.facebook.com/Fanat3k-Radio-169340146419121/), [Free Underground Tekno](https://www.facebook.com/Free.Underground.Tekno.Radio/), [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/), [FreakBeats TeknoRadio](https://www.facebook.com/freaks23/) and friends since 2010.
 
-Here you can listen for hundreds of recorded sessions across more than 10 years of WebTek editions: [https://radio.free-tekno.com](https://radio.free-tekno.com)
-
 - [WebTeK website](https://webtek.live/)
 - [WebTeK on Facebook](https://www.facebook.com/Worldwide.Streaming.Teknival/)
 
@@ -31,7 +29,7 @@ For custom streaming links just send us on Telegram/Facebook and we will re-post
 - [Freakbeats TeknoRadio](https://www.facebook.com/freaks23/)
 - [HappyFaceFamily](https://www.facebook.com/happyfacefamily.eu/)
 - [ISD Crew](https://www.twitch.tv/isdcrew)
-- Independent djs, producers, sound systems, networks
+- Independent djs, producers, sound systems, networks: **[artists list](https://github.com/fabriziosalmi/webtek/blob/master/artists.md)**.
 
 
 ## WEBTEK archives

@@ -26,7 +26,7 @@ Here a [list of independent djs, producers, sound systems and networks](https://
 
 ## Next one: WebTeK 22 (WXXII)
 
-- When? [1-3 November 2024](https://www.facebook.com/events/418998857502288/) (TBC)
+- When? [1-3 November 2024](https://www.facebook.com/events/418998857502288/)
 
 ## Archives
 

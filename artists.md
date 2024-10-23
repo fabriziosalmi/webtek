@@ -13,6 +13,7 @@ This is is uncomplete, please help me if you have recordings links!
 ## WEBTEK 2
 
 - [Kandyis](https://soundcloud.com/kandysakalt/webtek-2-mix-kandys-241010)
+- [VJ NAD](https://www.dailymotion.com/video/xfc083)
 
 ## WEBTEK 3
 

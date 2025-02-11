@@ -24,9 +24,9 @@ Please contact radio owners if you want to feature on the channels listed here:
 
 Here a [list of independent djs, producers, sound systems and networks](https://github.com/fabriziosalmi/webtek/blob/master/artists.md) who joined the WebTeK project across years.
 
-## Next one: WebTeK 22 (WXXII)
+## Next one: WebTeK 23 (WXXIII)
 
-- When? [1-3 November 2024](https://www.facebook.com/events/418998857502288/)
+- When? 7-8-9 March 2025 
 
 ## Archives
 

@@ -14,74 +14,1287 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&family=Press+Start+2P&display=swap" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     
-    <title>WebTeK - Streaming Teknival</title>
+    <title>W∃BT∃K ⟐ STREAMING TEKNIVAL</title>
+    <style>
+        @keyframes glitch {
+            0%, 100% { transform: translate(0); }
+            20% { transform: translate(-2px, 2px); }
+            40% { transform: translate(-2px, -2px); }
+            60% { transform: translate(2px, 2px); }
+            80% { transform: translate(2px, -2px); }
+        }
+        @keyframes rgb-shift {
+            0% { text-shadow: 2px 0 red, -2px 0 cyan; }
+            25% { text-shadow: -2px 0 red, 2px 0 cyan; }
+            50% { text-shadow: 2px 0 blue, -2px 0 yellow; }
+            75% { text-shadow: -2px 0 green, 2px 0 magenta; }
+            100% { text-shadow: 2px 0 red, -2px 0 cyan; }
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(5deg); }
+        }
+        @keyframes pulse-glow {
+            0%, 100% { box-shadow: 0 0 5px currentColor; }
+            50% { box-shadow: 0 0 25px currentColor, 0 0 50px currentColor; }
+        }
+        @keyframes vhs-distort {
+            0%, 100% { transform: scaleX(1); }
+            50% { transform: scaleX(0.98); }
+        }
+        @keyframes color-shift {
+            0% { filter: hue-rotate(0deg); }
+            100% { filter: hue-rotate(360deg); }
+        }
+        @keyframes static-noise {
+            0% { opacity: 0.1; }
+            50% { opacity: 0.15; }
+            100% { opacity: 0.1; }
+        }
+        .particles-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 5;
+            overflow: hidden;
+        }
+        .particle {
+            position: absolute;
+            width: 3px;
+            height: 3px;
+            background: var(--accent-color);
+            border-radius: 50%;
+            animation: float 3s infinite ease-in-out, particle-glow 2s infinite, particle-spin 10s infinite linear;
+            opacity: 0.6;
+            box-shadow: 0 0 10px var(--accent-color);
+        }
+        @keyframes particle-glow {
+            0%, 100% { box-shadow: 0 0 10px var(--accent-color); transform: scale(1); }
+            50% { box-shadow: 0 0 30px var(--accent-color), 0 0 40px var(--accent-color); transform: scale(1.8); }
+        }
+        @keyframes particle-spin {
+            0% { transform: rotate(0deg) scale(1); filter: hue-rotate(0deg); }
+            50% { transform: rotate(180deg) scale(1.5); filter: hue-rotate(180deg); }
+            100% { transform: rotate(360deg) scale(1); filter: hue-rotate(360deg); }
+        }
+        .glitch-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 100;
+            mix-blend-mode: overlay;
+            opacity: 0.05;
+            background: repeating-linear-gradient(0deg, rgba(255,0,0,0.1) 0px, transparent 2px, rgba(0,255,0,0.1) 4px, transparent 6px, rgba(0,0,255,0.1) 8px, transparent 10px);
+            animation: vhs-distort 0.3s infinite, static-noise 0.1s infinite;
+        }
+        .scanline-effect {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 99;
+            background: linear-gradient(transparent 50%, rgba(0,0,0,0.3) 50%);
+            background-size: 100% 4px;
+            animation: scanline-move 8s linear infinite;
+        }
+        @keyframes scanline-move {
+            0% { background-position: 0 0; }
+            100% { background-position: 0 100%; }
+        }
+        body.interactive-mode {
+            cursor: crosshair;
+        }
+        .channel-link {
+            animation: color-shift 10s infinite linear;
+            transition: all 0.1s !important;
+        }
+        .channel-link:hover {
+            animation: glitch 0.3s infinite, pulse-glow 0.5s infinite, rgb-shift 0.2s infinite !important;
+            transform: scale(1.05) rotate(1deg) !important;
+        }
+        .logo-container img {
+            animation: float 4s infinite ease-in-out, color-shift 8s infinite linear;
+        }
+        h1, h2 {
+            animation: rgb-shift 1s infinite;
+            font-family: 'Press Start 2P', cursive !important;
+        }
+        .vhs-line {
+            position: fixed;
+            height: 2px;
+            width: 100%;
+            background: rgba(255,255,255,0.1);
+            z-index: 98;
+            animation: vhs-line-move 3s linear infinite;
+        }
+        @keyframes vhs-line-move {
+            0% { top: 0; }
+            100% { top: 100%; }
+        }
+        #audio-visualizer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100px;
+            z-index: 1;
+            pointer-events: none;
+        }
+        .frequency-bar {
+            display: inline-block;
+            width: 2%;
+            height: 100%;
+            background: linear-gradient(to top, var(--accent-color), transparent);
+            margin: 0;
+            animation: frequency-dance 0.3s infinite ease-in-out;
+        }
+        @keyframes frequency-dance {
+            0%, 100% { transform: scaleY(0.3); }
+            50% { transform: scaleY(1); }
+        }
+        .trail {
+            position: fixed;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--accent-color);
+            pointer-events: none;
+            z-index: 9999;
+            animation: trail-fade 0.5s forwards;
+        }
+        @keyframes trail-fade {
+            to {
+                transform: scale(0);
+                opacity: 0;
+            }
+        }
+        .channel-grid {
+            perspective: 1000px;
+        }
+        /* Parallax Layers */
+        .parallax-layer {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            transition: transform 0.1s ease-out;
+        }
+        .layer-1 { z-index: 1; }
+        .layer-2 { z-index: 2; }
+        .layer-3 { z-index: 3; }
+        .layer-4 { z-index: 4; }
+        .parallax-shape {
+            position: absolute;
+            opacity: 0.1;
+            filter: blur(2px);
+            animation: shape-morph 8s infinite ease-in-out, shape-drift 15s infinite;
+        }
+        @keyframes shape-morph {
+            0%, 100% { transform: scale(1) rotate(0deg); border-radius: 0%; filter: brightness(1); }
+            25% { transform: scale(1.3) rotate(90deg); border-radius: 40%; filter: brightness(1.5); }
+            50% { transform: scale(0.7) rotate(180deg); border-radius: 50%; filter: brightness(0.8); }
+            75% { transform: scale(1.2) rotate(270deg); border-radius: 25%; filter: brightness(1.3); }
+        }
+        @keyframes shape-drift {
+            0%, 100% { transform: translateX(0) translateY(0) rotateZ(0deg); }
+            25% { transform: translateX(30px) translateY(-30px) rotateZ(90deg); }
+            50% { transform: translateX(-30px) translateY(30px) rotateZ(180deg); }
+            75% { transform: translateX(-15px) translateY(-15px) rotateZ(270deg); }
+        }
+        .shape-circle {
+            border-radius: 50%;
+            border: 2px solid var(--accent-color);
+        }
+        .shape-square {
+            border: 2px solid var(--accent-color);
+            transform: rotate(45deg);
+        }
+        .shape-triangle {
+            width: 0;
+            height: 0;
+            border-left: 30px solid transparent;
+            border-right: 30px solid transparent;
+            border-bottom: 50px solid var(--accent-color);
+            opacity: 0.1;
+        }
+        @keyframes depth-pulse {
+            0%, 100% { transform: translateZ(0px) scale(1); }
+            50% { transform: translateZ(50px) scale(1.1); }
+        }
+        .depth-element {
+            animation: depth-pulse 3s infinite ease-in-out;
+            transform-style: preserve-3d;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 10px 20px;
+            position: fixed;
+            z-index: 20;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            height: 100vh;
+            pointer-events: none;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .container > * {
+            pointer-events: all;
+        }
+        .channel-link {
+            transform-style: preserve-3d;
+            transition: transform 0.1s ease-out !important;
+        }
+        /* 3D Grid Background */
+        .grid-3d {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            perspective: 1000px;
+            pointer-events: none;
+        }
+        .grid-3d-inner {
+            width: 200%;
+            height: 200%;
+            background-image: 
+                linear-gradient(rgba(204, 255, 0, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(204, 255, 0, 0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+            transform: rotateX(60deg) translateY(-50%);
+            transform-style: preserve-3d;
+            animation: grid-3d-move 20s linear infinite, grid-wave 5s infinite ease-in-out, grid-pulse 3s infinite;
+        }
+        @keyframes grid-wave {
+            0%, 100% { background-size: 50px 50px; }
+            25% { background-size: 60px 40px; }
+            50% { background-size: 45px 55px; }
+            75% { background-size: 55px 45px; }
+        }
+        @keyframes grid-pulse {
+            0%, 100% { opacity: 0.8; }
+            50% { opacity: 1; }
+        }
+        @keyframes grid-3d-move {
+            0% { transform: rotateX(60deg) translateY(-50%) translateZ(0); }
+            100% { transform: rotateX(60deg) translateY(-50%) translateZ(500px); }
+        }
+        /* Depth fog layers */
+        .fog-layer {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            background: radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), transparent 0%, rgba(0,0,0,0.3) 100%);
+            z-index: 2;
+            mix-blend-mode: multiply;
+            transition: background 0.3s ease-out;
+        }
+        /* Floating layers with different depths */
+        .float-layer {
+            position: fixed;
+            width: 200px;
+            height: 200px;
+            pointer-events: none;
+            opacity: 0.05;
+            transition: transform 0.2s ease-out;
+        }
+        /* Star Wars Crawl */
+        .crawl-container {
+            display: none !important;
+        }
+        /* Central rotating name */
+        .central-name {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 100;
+            font-family: var(--font-main);
+            font-size: 6rem;
+            color: var(--accent-color);
+            text-shadow: 0 0 30px var(--accent-color), 0 0 60px var(--accent-color), 0 0 90px var(--accent-color), 0 0 120px var(--accent-color);
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.05s;
+            animation: central-glitch 0.2s infinite, central-pulse 1s infinite, central-zoom 3s infinite, central-blur 2s infinite;
+            white-space: nowrap;
+            max-width: 90vw;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            pointer-events: all;
+            filter: blur(0px) contrast(1.5);
+            letter-spacing: 0.2rem;
+        }
+        .central-name.non-clickable {
+            cursor: default;
+        }
+        .central-name:hover {
+            transform: translate(-50%, -50%) scale(1.2) rotate(5deg);
+            text-shadow: 0 0 50px var(--accent-color), 0 0 100px var(--accent-color), 0 0 150px var(--accent-color);
+        }
+        @keyframes central-glitch {
+            0%, 100% { transform: translate(-50%, -50%); }
+            25% { transform: translate(calc(-50% + 5px), calc(-50% + 3px)) skewX(2deg); }
+            50% { transform: translate(calc(-50% - 3px), calc(-50% - 5px)) skewX(-3deg); }
+            75% { transform: translate(calc(-50% + 2px), calc(-50% - 2px)) skewY(2deg); }
+        }
+        @keyframes central-pulse {
+            0%, 100% { opacity: 1; }
+            15% { opacity: 0.6; }
+            30% { opacity: 1; }
+            45% { opacity: 0.8; }
+            60% { opacity: 1; }
+            75% { opacity: 0.7; }
+            90% { opacity: 1; }
+        }
+        @keyframes central-zoom {
+            0%, 100% { transform: translate(-50%, -50%) scale(1); }
+            10% { transform: translate(-50%, -50%) scale(1.15); }
+            25% { transform: translate(-50%, -50%) scale(0.85); }
+            40% { transform: translate(-50%, -50%) scale(1.2); }
+            55% { transform: translate(-50%, -50%) scale(0.9); }
+            70% { transform: translate(-50%, -50%) scale(1.1); }
+            85% { transform: translate(-50%, -50%) scale(0.95); }
+        }
+        @keyframes central-blur {
+            0%, 100% { filter: blur(0px) contrast(1.5) brightness(1); }
+            20% { filter: blur(3px) contrast(2) brightness(1.3); }
+            40% { filter: blur(0px) contrast(1.8) brightness(0.9); }
+            60% { filter: blur(5px) contrast(2.5) brightness(1.5); }
+            80% { filter: blur(1px) contrast(1.3) brightness(1.1); }
+        }
+        @keyframes bg-strobe {
+            0%, 100% { background-color: #050505; }
+            10% { background-color: #0a0a0a; }
+            15% { background-color: #0f0f0f; }
+            20% { background-color: #151515; }
+            25% { background-color: #0c0c0c; }
+            30% { background-color: #0a0a0a; }
+            40% { background-color: #101010; }
+            50% { background-color: #0f0f0f; }
+            60% { background-color: #0a0a0a; }
+            65% { background-color: #0d0d0d; }
+            70% { background-color: #121212; }
+            80% { background-color: #080808; }
+            90% { background-color: #0d0d0d; }
+        }
+        @keyframes crawl-fade-in {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .fade-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 20%, transparent 40%, transparent 60%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0.8) 100%);
+            z-index: 99;
+            pointer-events: none;
+        }
+        .crawl {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 90%;
+            max-width: 1200px;
+            transform: translateX(-50%) rotateX(35deg);
+            transform-origin: 50% 100%;
+            animation: crawl-scroll-up 180s linear infinite;
+            font-family: var(--font-main);
+            font-size: 2.5rem;
+            color: var(--accent-color);
+            text-shadow: 0 0 20px var(--accent-color), 0 0 40px var(--accent-color);
+            line-height: 2.2;
+            text-align: center;
+            filter: blur(0px);
+            will-change: top;
+            z-index: 101;
+        }
+        @keyframes crawl-scroll-up {
+            0% { 
+                top: 100%; 
+            }
+            5% { 
+                top: 80%;
+            }
+            15% { 
+                top: 50%;
+            }
+            25% { 
+                top: 20%;
+            }
+            35% { 
+                top: -10%;
+            }
+            50% { 
+                top: -80%;
+            }
+            65% { 
+                top: -150%;
+            }
+            80% { 
+                top: -220%;
+            }
+            90% { 
+                top: -280%;
+            }
+            100% { 
+                top: -400%; 
+            }
+        }
+        .crawl h2 {
+            font-size: 5rem;
+            text-align: center;
+            margin: 60px 0;
+            color: var(--accent-color);
+            text-transform: uppercase;
+            animation: pulse-glow 2s infinite, rgb-shift 0.5s infinite, crawl-zoom 5s infinite ease-in-out;
+            letter-spacing: 8px;
+            text-shadow: 0 0 30px var(--accent-color), 0 0 60px var(--accent-color), 0 0 90px var(--accent-color);
+        }
+        @keyframes crawl-zoom {
+            0%, 100% { transform: scale(1) rotateZ(0deg); }
+            25% { transform: scale(1.15) rotateZ(2deg); }
+            50% { transform: scale(0.95) rotateZ(-1deg); }
+            75% { transform: scale(1.1) rotateZ(-2deg); }
+        }
+        .crawl .artist-name {
+            display: inline-block;
+            margin: 12px 15px;
+            padding: 8px 16px;
+            background: rgba(0,0,0,0.7);
+            border: 2px solid var(--accent-color);
+            font-size: 2.5rem;
+            animation: artist-alive 4s infinite ease-in-out;
+            transition: all 0.3s;
+            box-shadow: 0 0 15px var(--accent-color);
+        }
+        @keyframes artist-alive {
+            0%, 100% { 
+                transform: translateY(0) scale(1) rotateZ(0deg);
+                filter: hue-rotate(0deg) brightness(1);
+            }
+            15% { 
+                transform: translateY(-5px) scale(1.05) rotateZ(1deg);
+                filter: hue-rotate(30deg) brightness(1.2);
+            }
+            30% { 
+                transform: translateY(3px) scale(0.98) rotateZ(-1deg);
+                filter: hue-rotate(60deg) brightness(0.9);
+            }
+            50% { 
+                transform: translateY(-3px) scale(1.02) rotateZ(2deg);
+                filter: hue-rotate(90deg) brightness(1.1);
+            }
+            70% { 
+                transform: translateY(5px) scale(0.97) rotateZ(-2deg);
+                filter: hue-rotate(120deg) brightness(0.95);
+            }
+        }
+        .crawl .artist-name:hover {
+            transform: scale(1.2) !important;
+            box-shadow: 0 0 20px var(--accent-color);
+        }
+        .intro-text {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: 'Press Start 2P', cursive;
+            font-size: 8rem;
+            color: var(--accent-color);
+            text-align: center;
+            z-index: 2000;
+            animation: intro-fade 4s forwards;
+            text-shadow: 0 0 50px var(--accent-color), 0 0 100px var(--accent-color), 0 0 150px var(--accent-color);
+            white-space: nowrap;
+            letter-spacing: 20px;
+        }
+        @keyframes intro-fade {
+            0% { opacity: 0; transform: translate(-50%, -50%) scale(0.5); }
+            50% { opacity: 1; transform: translate(-50%, -50%) scale(1.2); }
+            90% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+            100% { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+        }
+        .crawl-trigger {
+            display: none;
+        }
+        /* Floating channel links */
+        .floating-links {
+            display: none !important;
+        }
+        .floating-links a {
+            display: block;
+            padding: 8px 12px;
+            margin: 8px 0;
+            background: rgba(0,0,0,0.8);
+            border: 1px solid var(--accent-color);
+            font-size: 0.7rem;
+            font-family: var(--font-main);
+            writing-mode: horizontal-tb;
+            pointer-events: all;
+            transition: all 0.3s;
+            animation: float 4s infinite ease-in-out;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 180px;
+        }
+        .floating-links a:hover {
+            max-width: 300px;
+            transform: scale(1.05);
+            z-index: 100;
+        }
+        .links-left {
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .links-right {
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .links-bottom {
+            bottom: 120px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 90vw;
+            justify-content: center;
+            gap: 10px;
+        }
+        .links-bottom a {
+            margin: 0;
+            animation-delay: calc(var(--index) * 0.1s);
+        }
+        @media (max-width: 899px) {
+            .links-left, .links-right {
+                display: none;
+            }
+            .floating-links a {
+                font-size: 0.6rem;
+                padding: 6px 10px;
+            }
+        }
+    </style>
 </head>
-<body>
+<body class="interactive-mode">
+
+    <!-- 3D Grid Background -->
+    <div class="grid-3d">
+        <div class="grid-3d-inner"></div>
+    </div>
+    
+    <!-- Central rotating name -->
+    <div class="central-name" id="centralName"></div>
+    
+    <!-- Floating Channel Links -->
+    <div class="floating-links links-left" id="linksLeft"></div>
+    <div class="floating-links links-right" id="linksRight"></div>
+    <div class="floating-links links-bottom" id="linksBottom"></div>
+    
+    <!-- Star Wars Crawl -->
+    <button class="crawl-trigger" id="crawlTrigger">ARTISTS<br>HALL OF FAME</button>
+    <div class="crawl-container" id="crawlContainer">
+        <div class="fade-overlay"></div>
+        <div class="crawl" id="crawl"></div>
+    </div>
+    
+    <!-- Parallax Layers -->
+    <div class="parallax-layer layer-1" id="parallax1"></div>
+    <div class="parallax-layer layer-2" id="parallax2"></div>
+    <div class="parallax-layer layer-3" id="parallax3"></div>
+    <div class="parallax-layer layer-4" id="parallax4"></div>
+    
+    <!-- Depth Fog -->
+    <div class="fog-layer" id="fog"></div>
+    
+    <!-- VHS/Analog Effects -->
+    <div class="glitch-overlay"></div>
+    <div class="scanline-effect"></div>
+    <div class="vhs-line"></div>
+    
+    <!-- Particles System -->
+    <div class="particles-container" id="particles"></div>
+    
+    <!-- Audio Visualizer -->
+    <div id="audio-visualizer"></div>
 
     <div class="container">
-        <header>
-            <div class="logo-container">
+        <header style="text-align: center; padding: 5px 0; margin: 0;">
+            <div class="logo-container depth-element" style="margin-bottom: 3px;">
                 <a href="https://t.me/streamingteknival" target="_blank" rel="noopener">
-                    <img src="webtek_logo.png" alt="WebTeK Logo">
+                    <img src="webtek_logo.png" alt="WebTeK Logo" id="logo" style="max-width: 60px; height: auto;">
                 </a>
             </div>
-            <div class="header-text">
-                <h1>WebTeK <br><span class="highlight">Streaming Teknival</span></h1>
-                <p class="subtitle">Since 2010 the most popular underground free tekno streaming teknival out there :)</p>
-                <p style="color: #666; font-size: 0.9em;"><i>// Open to all artists, collectives, aliens and hackers! //</i></p>
+            <div class="header-text" style="margin: 0;">
+                <h1 id="main-title" style="margin: 3px 0; font-size: 1.3rem; line-height: 1.2;">WebTeK <br><span class="highlight">Streaming Teknival</span></h1>
+                <p class="subtitle" style="margin: 2px 0; font-size: 0.65rem;">Since 2010 the most popular underground free tekno streaming teknival out there :)</p>
+                <p style="color: #666; font-size: 0.6em; margin: 1px 0;"><i>// Open to all artists, collectives, aliens and hackers! //</i></p>
             </div>
         </header>
 
-        <main>
-            <section class="channels">
-                <h2 class="section-title">>> Featured Channels</h2>
-                <div class="channel-grid">
-                    <a class="channel-link" href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FreakBeats TeknoRadio</a>
-                    <a class="channel-link" href="https://webtek.live/fr/" target="_blank" rel="noopener">Fanat3k Radio</a>
-                    <a class="channel-link" href="https://radio.free-tekno.com/" target="_blank" rel="noopener">Free Underground Tekno</a>
-                    <a class="channel-link" href="https://www.facebook.com/happyfacefamily.eu/" target="_blank" rel="noopener">HappyFaceFamily</a>
-                    <a class="channel-link" href="https://www.facebook.com/BPMresistance/" target="_blank" rel="noopener">BPM Resistance</a>
-                    <a class="channel-link" href="http://www.undergroundradiomix.com/" target="_blank" rel="noopener">UndergroundRadioMix</a>
-                    <a class="channel-link" href="https://www.twitch.tv/isdcrew" target="_blank" rel="noopener">ISD Crew</a>
-                    <a class="channel-link" href="https://www.facebook.com/MKN-BRIGADE-127977930016/" target="_blank" rel="noopener">MKN Brigade</a>
-                    <a class="channel-link" href="https://www.facebook.com/HESED.ATM/" target="_blank" rel="noopener">Hesed</a>
-                    <a class="channel-link" href="https://www.facebook.com/HAZARD-UNITZ-100108373414153/" target="_blank" rel="noopener">Hazard Unitz</a>
-                    <a class="channel-link" href="https://www.facebook.com/Coroakrotek/" target="_blank" rel="noopener">Coroakrotek</a>
-                    <a class="channel-link" href="https://www.facebook.com/tekniweb1.0/" target="_blank" rel="noopener">Tekniweb 1.0</a>
-                    <a class="channel-link" href="https://www.facebook.com/groups/435527993882117" target="_blank" rel="noopener">D'Gen-T Underground Sound</a>
-                    <a class="channel-link" href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FTBR</a>
-                    <a class="channel-link" href="https://www.facebook.com/Under-Rave-Network-103468938014224/" target="_blank" rel="noopener">Under Rave Network</a>
-                    <a class="channel-link" href="https://www.facebook.com/wacky23/" target="_blank" rel="noopener">Wacky 23</a>
-                    <a class="channel-link" href="https://www.facebook.com/freetekno.lt/" target="_blank" rel="noopener">freetekno.lt</a>
-                    <a class="channel-link" href="https://www.facebook.com/spaceinvaderstekno/" target="_blank" rel="noopener">Space Invaders Tekno Sound</a>
-                    <a class="channel-link" href="https://www.facebook.com/PTK-sound-system-110685279011336/" target="_blank" rel="noopener">PTK Sound System</a>
-                    <a class="channel-link" href="https://www.facebook.com/MetalSlug.SoundSystem/" target="_blank" rel="noopener">Metal Slug</a>
-                    <a class="channel-link" href="https://www.facebook.com/shockraver23/" target="_blank" rel="noopener">Shockraver</a>
-                    <a class="channel-link" href="https://www.facebook.com/xmuteTheSlackers/" target="_blank" rel="noopener">XMute</a>
-                    <a class="channel-link" href="https://www.facebook.com/FreeZik.Radio/" target="_blank" rel="noopener">FreeZik</a>
-                    <a class="channel-link" href="https://www.facebook.com/BlackDropSound/" target="_blank" rel="noopener">BlackDrop SoundSystem</a>
-                    <a class="channel-link" href="https://www.facebook.com/HardCoreHeroesPirate/" target="_blank" rel="noopener">HardCore Heroes Pirate Crew</a>
-                    <a class="channel-link" href="https://www.facebook.com/alienkml/" target="_blank" rel="noopener">Alien KML</a>
-                    <a class="channel-link" href="https://www.facebook.com/LunaticSoundDD/" target="_blank" rel="noopener">LSD Lunatic Sound Dresden</a>
-                    <a class="channel-link" href="https://www.facebook.com/NBK-Abusive-Sound-System-1739790966232263" target="_blank" rel="noopener">NBK "Abusive Sound System"</a>
-                    <a class="channel-link" href="https://www.facebook.com/familytek" target="_blank" rel="noopener">Familytek Crew</a>
-                    <a class="channel-link" href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">>> More Info</a>
-                </div>
-            </section>
-        </main>
-
-        <footer>
+        <footer style="text-align: center; padding: 5px 0; margin: 0;">
              <nav>
-                <ul>
+                <ul style="margin: 3px 0; padding: 0; list-style: none; display: flex; justify-content: center; gap: 12px; font-size: 0.75rem;">
                     <li><a href="https://t.me/streamingteknival" target="_blank" rel="noopener">Telegram</a></li>
                     <li><a href="https://www.facebook.com/Worldwide.Streaming.Teknival/" target="_blank" rel="noopener">Facebook</a></li>
                     <li><a href="https://www.reddit.com/r/WebTek/" target="_blank" rel="noopener">Reddit</a></li>
                 </ul>
             </nav>
-            <p>copyleft 2010-2024 WebTeK Streaming Teknival and friends <br> <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">github repo</a></p>
+            <p style="margin: 2px 0; font-size: 0.6rem; line-height: 1.2;">copyleft 2010-2024 WebTeK Streaming Teknival and friends <br> <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">github repo</a></p>
         </footer>
     </div>
+    
+    <script>
+        // Channels Data
+        const channels = [
+            { name: "FreakBeats TeknoRadio", url: "https://www.facebook.com/freaks23/" },
+            { name: "Fanat3k Radio", url: "https://webtek.live/fr/" },
+            { name: "Free Underground Tekno", url: "https://radio.free-tekno.com/" },
+            { name: "HappyFaceFamily", url: "https://www.facebook.com/happyfacefamily.eu/" },
+            { name: "BPM Resistance", url: "https://www.facebook.com/BPMresistance/" },
+            { name: "UndergroundRadioMix", url: "http://www.undergroundradiomix.com/" },
+            { name: "ISD Crew", url: "https://www.twitch.tv/isdcrew" },
+            { name: "MKN Brigade", url: "https://www.facebook.com/MKN-BRIGADE-127977930016/" },
+            { name: "Hesed", url: "https://www.facebook.com/HESED.ATM/" },
+            { name: "Hazard Unitz", url: "https://www.facebook.com/HAZARD-UNITZ-100108373414153/" },
+            { name: "Coroakrotek", url: "https://www.facebook.com/Coroakrotek/" },
+            { name: "Tekniweb 1.0", url: "https://www.facebook.com/tekniweb1.0/" },
+            { name: "D'Gen-T Underground", url: "https://www.facebook.com/groups/435527993882117" },
+            { name: "FTBR", url: "https://www.facebook.com/freaks23/" },
+            { name: "Under Rave Network", url: "https://www.facebook.com/Under-Rave-Network-103468938014224/" },
+            { name: "Wacky 23", url: "https://www.facebook.com/wacky23/" },
+            { name: "freetekno.lt", url: "https://www.facebook.com/freetekno.lt/" },
+            { name: "Space Invaders Tekno", url: "https://www.facebook.com/spaceinvaderstekno/" },
+            { name: "PTK Sound System", url: "https://www.facebook.com/PTK-sound-system-110685279011336/" },
+            { name: "Metal Slug", url: "https://www.facebook.com/MetalSlug.SoundSystem/" },
+            { name: "Shockraver", url: "https://www.facebook.com/shockraver23/" },
+            { name: "XMute", url: "https://www.facebook.com/xmuteTheSlackers/" },
+            { name: "FreeZik", url: "https://www.facebook.com/FreeZik.Radio/" },
+            { name: "BlackDrop SoundSystem", url: "https://www.facebook.com/BlackDropSound/" },
+            { name: "HardCore Heroes Pirate", url: "https://www.facebook.com/HardCoreHeroesPirate/" },
+            { name: "Alien KML", url: "https://www.facebook.com/alienkml/" },
+            { name: "LSD Lunatic Sound", url: "https://www.facebook.com/LunaticSoundDD/" },
+            { name: "NBK Abusive Sound", url: "https://www.facebook.com/NBK-Abusive-Sound-System-1739790966232263" },
+            { name: "Familytek Crew", url: "https://www.facebook.com/familytek" }
+        ];
+
+        // Distribute channels to different positions
+        function distributeChannels() {
+            const linksLeft = document.getElementById('linksLeft');
+            const linksRight = document.getElementById('linksRight');
+            const linksBottom = document.getElementById('linksBottom');
+            
+            linksLeft.innerHTML = '';
+            linksRight.innerHTML = '';
+            linksBottom.innerHTML = '';
+            
+            const shuffled = shuffle(channels);
+            const third = Math.ceil(shuffled.length / 3);
+            
+            // Left side
+            shuffled.slice(0, third).forEach((channel, index) => {
+                const link = document.createElement('a');
+                link.href = channel.url;
+                link.target = '_blank';
+                link.rel = 'noopener';
+                link.textContent = channel.name;
+                link.style.animationDelay = `${index * 0.2}s`;
+                linksLeft.appendChild(link);
+            });
+            
+            // Right side
+            shuffled.slice(third, third * 2).forEach((channel, index) => {
+                const link = document.createElement('a');
+                link.href = channel.url;
+                link.target = '_blank';
+                link.rel = 'noopener';
+                link.textContent = channel.name;
+                link.style.animationDelay = `${index * 0.2}s`;
+                linksRight.appendChild(link);
+            });
+            
+            // Bottom
+            shuffled.slice(third * 2).forEach((channel, index) => {
+                const link = document.createElement('a');
+                link.href = channel.url;
+                link.target = '_blank';
+                link.rel = 'noopener';
+                link.textContent = channel.name;
+                link.style.setProperty('--index', index);
+                linksBottom.appendChild(link);
+            });
+        }
+        distributeChannels();
+        
+        // Re-shuffle channels every 30 seconds
+        setInterval(distributeChannels, 30000);
+
+        // Artists data from artists.md - UNIQUE ONLY
+        const artistsData = {
+            "WEBTEK 1": ["Antonello (Puzzle)", "LDM", "Luchino", "Silvia Trix", "Paolo Zerla", "Beat'N'Kill", "Space Invaders Tekno Sound", "L3L3"],
+            "WEBTEK 2": ["Kandyis", "VJ NAD"],
+            "WEBTEK 3": ["HDI IntelTek"],
+            "WEBTEK 5": ["Bulle"],
+            "WEBTEK 6": ["Astrophonics Records", "O2F and friends", "RDS", "Cinqueme soleil", "Musik'All", "Mad'World", "TOR crew", "FMS", "Rhizome", "Cali", "Mohm", "DJ Alkaline", "DJ Henrry", "POttar", "Mars L", "Hadopi", "Alferson", "DJ Garfield", "Cokon3k", "Leviking", "DR pikol", "Virus", "Semtek", "Nicklos'Pad Blaze", "Smad vs Scrat", "Drop7", "SoundK", "Kero", "Chris Revoltè"],
+            "WEBTEK 7": ["Redge", "fab", "berber", "LDM", "asphalt pirates", "Nicklos'Pad Blaze", "El Nano", "OD C/Rhum", "DJ Garfield", "Cali & Mohm", "Bulle", "O2F", "DJ Farfaday", "Arsen", "TOR crew", "Mazotribe", "Dj Kat", "RDS", "Cinqueme Soleil", "Cyroz", "Actinid", "Anarkya", "Leviking", "Aure B", "Ivan", "Ladouille vs Chipchop", "Kero", "Stellapop", "Cremaster", "Crayon", "Xylof", "Frakensis", "Smooth"],
+            "WEBTEK 8": ["Smooth"],
+            "WEBTEK 9": ["Soulflex", "Redge", "Tactival Synopsys", "Metalloide", "Dorf", "10jonk-t", "Barouz"],
+            "WEBTEK 10": ["Redge", "ReezOhm", "Logarythme", "Free Underground Tekno Radio", "R-Type"],
+            "WEBTEK 11": ["Kindaaz", "Scepticemic", "Disagio43", "RobX", "Space Invaders", "Freakbeats", "DJ Willys"],
+            "WEBTEK 12": ["Farfaday", "Cascajtek", "Cocheese", "Cali", "Dorf", "Cetenza", "Muzik All", "Redge", "LoGo", "Krown", "Karismatek", "DMS HK", "Klax Sound", "Rider-R", "Relakztek", "Blastering", "Haryou Sirius Lab", "Wiwii", "Pernoteck", "Analogyk Bzt", "Kindaaz", "Belka", "NiCkLoSPadblaze", "O2F", "Asphalte", "Warakrk", "Tonku", "Osmosis", "Passtek Pdkr", "Dj Mohm", "Family Smile", "Al Ferson", "MGL & Keno", "SBUME", "Def Cronic", "Tekapunk", "Yoni Banks & Yan Ka", "Area 11", "Houngan SKK", "k-lu", "Shaman/Infrabask", "Space Invaders"],
+            "WEBTEK 13": ["Wiwii", "Tonku", "Dj Mohm", "Henrry Pottar", "Hadopi", "Mars L", "Pernotek", "Kawimix", "Axel", "Diego", "Yogy", "Gio Laroyz", "Tom Ton Koma", "RobyUanKeRoby", "Ride-r", "StevenShaman", "Josy", "Al Ferson", "Cocheese", "Amazone Experience", "LoGo", "O2F", "Dakktek", "Karismatek", "Dj Chinook", "Osmosis", "Pinuche", "Zinc", "Semtek", "The Virus", "Analogyk BzT", "Harcordéon", "Ecran 2D", "Kaostek", "Darklouxxx", "Rob X", "Bit Rider", "R-Type", "Lxir", "Zef", "Basscook", "Bount effect", "XT-Ric", "Birdyp"],
+            "WEBTEK 14": ["Assolm", "Redge", "Farfaday", "Ecran 2D", "Airbass", "Free Underground Tekno Radio", "Ratus", "Wedget Reek", "Zirradies", "Anarkya", "Abtuop", "Cortex057"],
+            "WEBTEK 15": ["Rione XX", "Freakbeats", "Free Underground Tekno", "Anarkya", "DJ Kilfa", "Pablito El Drito", "Shockraver", "Blackqirex", "MGL", "SMASHPROJECTCREW", "Cocheese", "EMS", "Sertik", "Molotov", "Doom23", "Roby", "Symbiosis", "Drugo", "StevenShaman", "Haryou Sirus Lab", "Dj Kat", "Assolm", "Airbass", "Acydub", "Weedjet", "SRV", "Gui-Two", "Aléatoire Sound", "Hak Irah", "Delikatess", "OD", "Osmosis", "Noar", "Metalloïde", "Surprise", "Hak Hira"],
+            "WEBTEK 17": ["Ixindamix", "DJ Tal", "Dave The Drummer", "R-Type", "Salvo Errori", "Andrea RNZ", "Kinsei", "Sonik", "Dino", "G2BorderLine", "TeknoMoon", "DjTaddaa", "Acid Marfi", "GG Alien", "Antony C", "Pirate Control", "FRKZ", "Byana", "Hazmat Skatek", "Peter 303", "Speedlabor", "Mrln"],
+            "WEBTEK 18": ["Emix", "DJ Wade", "MASKK", "Ixindamix", "Crystal distortioN", "Silvia Wally", "PUZZLE", "KK", "SPACE INVADERS", "VINILIKA", "Shivo", "Salvo", "Fuckin'Frankie", "Andrew Tekno Noise", "Joker FTK", "BlackDrop", "Noise Control", "Federico", "Cali 23h23", "Shockraver", "Vladdy", "Marterz", "Marco"]
+        };
+
+        // Generate crawl content with UNIQUE artists only
+        function generateCrawl() {
+            let crawlHTML = `
+                <h2>⟐ WEBTEK TEKNIVAL ⟐</h2>
+                <h2>UNDERGROUND FREETEKNO</h2>
+                <p style="text-align: center; font-size: 2.5rem; margin: 60px 0; line-height: 2.5; text-shadow: 0 0 20px var(--accent-color);">
+                    Since 2010, these legendary artists have rocked<br>
+                    the underground streaming teknival scene...<br>
+                    <br>
+                    A galactic celebration of FREETEKNO warriors!<br>
+                    <br>
+                    ♫ THE RAVE NEVER STOPS ♫
+                </p>
+            `;
+            
+            // Collect ALL artists first
+            const allArtistsWithEditions = [];
+            Object.keys(artistsData).forEach(edition => {
+                artistsData[edition].forEach(artist => {
+                    allArtistsWithEditions.push({ name: artist, edition: edition });
+                });
+            });
+            
+            // Get UNIQUE artists (by name)
+            const uniqueArtists = [];
+            const artistNames = new Set();
+            allArtistsWithEditions.forEach(item => {
+                if (!artistNames.has(item.name)) {
+                    artistNames.add(item.name);
+                    uniqueArtists.push(item);
+                }
+            });
+            
+            // Shuffle unique artists for visual variety
+            const shuffledArtists = shuffle(uniqueArtists);
+            
+            crawlHTML += `<h2>★ HALL OF FAME ★</h2><p style="text-align: center; font-size: 2rem; color: #888; margin-bottom: 60px; text-shadow: 0 0 15px var(--accent-color);">(${uniqueArtists.length} unique artists across all editions)</p><p style="text-align: center;">`;
+            
+            shuffledArtists.forEach(artist => {
+                const randomDelay = Math.random() * 4;
+                crawlHTML += `<span class="artist-name" title="${artist.edition}" style="animation-delay: ${randomDelay}s;">${artist.name}</span> `;
+            });
+            
+            crawlHTML += `</p>`;
+            
+            crawlHTML += `
+                <h2>⟐ ⟐ ⟐</h2>
+                <p style="text-align: center; font-size: 3rem; margin: 80px 0; line-height: 2.8; text-shadow: 0 0 30px var(--accent-color);">
+                    ...AND MANY MORE TO COME!<br>
+                    <br>
+                    THE TEKNIVAL CONTINUES<br>
+                    IN A GALAXY NOT SO FAR AWAY...<br>
+                    <br>
+                    ♪ UNDERGROUND FOREVER ♪<br>
+                    <br>
+                    <span style="font-size: 2rem; animation: pulse-glow 1s infinite;">>> PRESS ESC TO RETURN <<</span>
+                </p>
+            `;
+            
+            return crawlHTML;
+        }
+
+        // Central name rotation system
+        const centralNameElement = document.getElementById('centralName');
+        let allNames = [];
+        let currentIndex = 0;
+        
+        // Combina artisti e canali
+        function prepareAllNames() {
+            const names = [];
+            
+            // Aggiungi artisti unici
+            const artistNames = new Set();
+            Object.keys(artistsData).forEach(edition => {
+                artistsData[edition].forEach(artist => {
+                    if (!artistNames.has(artist)) {
+                        artistNames.add(artist);
+                        names.push({ text: artist, url: null });
+                    }
+                });
+            });
+            
+            // Aggiungi canali con link
+            channels.forEach(channel => {
+                names.push({ text: channel.name, url: channel.url });
+            });
+            
+            // Shuffle
+            return shuffle(names);
+        }
+        
+        // Mostra nome con effetti casuali
+        function showNextName() {
+            if (allNames.length === 0) {
+                allNames = prepareAllNames();
+                currentIndex = 0;
+            }
+            
+            const current = allNames[currentIndex];
+            centralNameElement.textContent = current.text;
+            
+            // Effetti casuali ESTREMI distorti
+            const randomRotate = Math.random() * 40 - 20;
+            const randomScale = 0.6 + Math.random() * 1.2;
+            const randomSkewX = Math.random() * 25 - 12.5;
+            const randomSkewY = Math.random() * 25 - 12.5;
+            const randomHue = Math.random() * 360;
+            const randomBlur = Math.random() * 8;
+            const randomContrast = 1 + Math.random() * 2;
+            const randomSaturate = 1 + Math.random() * 3;
+            const randomLetterSpacing = Math.random() * 2;
+            
+            centralNameElement.style.transform = `translate(-50%, -50%) rotate(${randomRotate}deg) scale(${randomScale}) skewX(${randomSkewX}deg) skewY(${randomSkewY}deg) rotateX(${Math.random() * 30 - 15}deg)`;
+            centralNameElement.style.filter = `hue-rotate(${randomHue}deg) brightness(${0.5 + Math.random() * 1.5}) blur(${randomBlur}px) contrast(${randomContrast}) saturate(${randomSaturate})`;
+            centralNameElement.style.letterSpacing = `${randomLetterSpacing}rem`;
+            
+            // Gestisci clickabilità
+            if (current.url) {
+                centralNameElement.classList.remove('non-clickable');
+                centralNameElement.onclick = () => window.open(current.url, '_blank');
+            } else {
+                centralNameElement.classList.add('non-clickable');
+                centralNameElement.onclick = null;
+            }
+            
+            currentIndex = (currentIndex + 1) % allNames.length;
+        }
+        
+        // Auto-start nome rotation
+        window.addEventListener('load', () => {
+            console.log('%c🎭 Starting central name rotation...', 'color: #ccff00; font-size: 14px;');
+            allNames = prepareAllNames();
+            console.log(`%c✅ Loaded ${allNames.length} names!`, 'color: #00ff00; font-size: 14px;');
+            
+            showNextName();
+            
+            // Cambio rapido ogni 800ms con retrobo
+            setInterval(() => {
+                // Effetto retrobo ESTREMO - flash prima del cambio
+                if (Math.random() < 0.7) {
+                    centralNameElement.style.opacity = Math.random() * 0.3;
+                    centralNameElement.style.filter = `blur(${5 + Math.random() * 10}px) contrast(${3 + Math.random() * 2}) saturate(${Math.random() * 5})`;
+                    centralNameElement.style.transform += ` scale(${0.5 + Math.random()})`;
+                    setTimeout(() => {
+                        centralNameElement.style.opacity = '1';
+                    }, 30 + Math.random() * 50);
+                }
+                
+                setTimeout(() => {
+                    showNextName();
+                }, Math.random() < 0.3 ? 50 : 0);
+            }, 800);
+            
+            // Random color shifts
+            setInterval(() => {
+                const randomColor = colors[Math.floor(Math.random() * colors.length)];
+                document.documentElement.style.setProperty('--accent-color', randomColor);
+            }, 3000);
+            
+            // Wind effect - random skew/tilt
+            setInterval(() => {
+                if (Math.random() < 0.3) {
+                    const windForce = Math.random() * 3 - 1.5;
+                    crawlElement.style.transform = `skewX(${windForce}deg)`;
+                    setTimeout(() => {
+                        crawlElement.style.transform = '';
+                    }, 800);
+                }
+            }, 2000);
+            
+            // Random zoom bursts
+            setInterval(() => {
+                if (Math.random() < 0.2) {
+                    const zoomLevel = 0.9 + Math.random() * 0.3;
+                    const currentTransform = crawlElement.style.transform || '';
+                    crawlElement.style.transform = currentTransform + ` scale(${zoomLevel})`;
+                    crawlElement.style.filter = `blur(${Math.random() * 2}px)`;
+                    setTimeout(() => {
+                        crawlElement.style.transform = currentTransform;
+                        crawlElement.style.filter = 'blur(0px)';
+                    }, 500);
+                }
+            }, 4000);
+            
+            // Chromatic aberration bursts
+            setInterval(() => {
+                if (Math.random() < 0.25) {
+                    const shift = Math.random() * 5;
+                    crawlElement.style.textShadow = `${shift}px 0 red, -${shift}px 0 cyan, 0 ${shift}px blue`;
+                    setTimeout(() => {
+                        crawlElement.style.textShadow = '0 0 20px var(--accent-color), 0 0 40px var(--accent-color)';
+                    }, 300);
+                }
+            }, 3000);
+        });
+        
+
+        
+        // Mouse position tracking for parallax
+        let mouseX = 0;
+        let mouseY = 0;
+        let mouseXPercent = 50;
+        let mouseYPercent = 50;
+        let lastMouseX = 0;
+        let lastMouseY = 0;
+        
+        document.addEventListener('mousemove', (e) => {
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+            mouseXPercent = (e.clientX / window.innerWidth) * 100;
+            mouseYPercent = (e.clientY / window.innerHeight) * 100;
+            
+            // Update CSS variables for fog effect
+            document.documentElement.style.setProperty('--mouse-x', mouseXPercent + '%');
+            document.documentElement.style.setProperty('--mouse-y', mouseYPercent + '%');
+            
+            // Flash su movimento veloce
+            const speed = Math.sqrt(Math.pow(mouseX - lastMouseX, 2) + Math.pow(mouseY - lastMouseY, 2));
+            if (speed > 100 && Math.random() < 0.05) {
+                triggerAnalogFlash();
+            }
+            
+            lastMouseX = mouseX;
+            lastMouseY = mouseY;
+            
+            updateParallax();
+        });
+        
+        // Parallax effect
+        function updateParallax() {
+            const centerX = window.innerWidth / 2;
+            const centerY = window.innerHeight / 2;
+            const moveX = (mouseX - centerX) / centerX;
+            const moveY = (mouseY - centerY) / centerY;
+            
+            // Calcola distanza dagli estremi (0 = centro, 1 = estremo)
+            const extremeDistance = Math.sqrt(moveX * moveX + moveY * moveY);
+            const isExtreme = extremeDistance > 0.7;
+            const isCorner = Math.abs(moveX) > 0.8 && Math.abs(moveY) > 0.8;
+            
+            // Effetto LSD estremo: skew e zoom aumentano esponenzialmente agli estremi
+            const lsdMultiplier = isExtreme ? 1 + (extremeDistance - 0.7) * 5 : 1;
+            const skewPower = isCorner ? 20 : 10;
+            const zoomPower = 1 + Math.abs(moveX + moveY) * 0.3 * lsdMultiplier;
+            
+            // Flash analogico agli estremi
+            if (isCorner && Math.random() < 0.1) {
+                triggerAnalogFlash();
+            }
+            
+            // Schiarimento sfondo progressivo verso gli estremi
+            document.body.style.filter = `brightness(${1 + extremeDistance * 0.3}) contrast(${1 + extremeDistance * 0.2})`;
+            
+            // Update parallax layers with EXTREME speeds and distortion
+            const layer1 = document.getElementById('parallax1');
+            const layer2 = document.getElementById('parallax2');
+            const layer3 = document.getElementById('parallax3');
+            const layer4 = document.getElementById('parallax4');
+            
+            if (layer1) layer1.style.transform = `translate(${moveX * 80 * lsdMultiplier}px, ${moveY * 80 * lsdMultiplier}px) scale(${zoomPower}) rotate(${moveX * 5 * lsdMultiplier}deg) skewX(${moveX * skewPower}deg) skewY(${moveY * skewPower}deg)`;
+            if (layer2) layer2.style.transform = `translate(${moveX * 60 * lsdMultiplier}px, ${moveY * 60 * lsdMultiplier}px) scale(${1 + Math.abs(moveY) * 0.2 * lsdMultiplier}) rotate(${-moveY * 3 * lsdMultiplier}deg) skewX(${-moveY * skewPower * 0.8}deg)`;
+            if (layer3) layer3.style.transform = `translate(${moveX * 40 * lsdMultiplier}px, ${moveY * 40 * lsdMultiplier}px) skewX(${moveX * skewPower * 0.6}deg) skewY(${moveY * skewPower * 0.6}deg) scale(${1 + extremeDistance * 0.3})`;
+            if (layer4) layer4.style.transform = `translate(${moveX * 25 * lsdMultiplier}px, ${moveY * 25 * lsdMultiplier}px) scale(${zoomPower * 0.8}) rotate(${(moveX + moveY) * lsdMultiplier * 3}deg)`;
+            
+            // Deform logo solo con effetti estremi (non container)
+            const logo = document.getElementById('logo');
+            if (logo) {
+                logo.style.transform = `scale(${zoomPower * 1.2}) rotateY(${moveX * 20 * lsdMultiplier}deg) rotateX(${moveY * 20 * lsdMultiplier}deg) skewX(${moveX * 15}deg) skewY(${moveY * 15}deg)`;
+            }
+        }
+        
+        // Flash analogico triplo
+        let flashInProgress = false;
+        function triggerAnalogFlash() {
+            if (flashInProgress) return;
+            flashInProgress = true;
+            
+            const body = document.body;
+            const overlay = document.querySelector('.glitch-overlay');
+            
+            // Flash 1 - bianco rapido
+            body.style.transition = 'filter 0.05s';
+            body.style.filter = 'brightness(2) contrast(1.5) saturate(0)';
+            if (overlay) overlay.style.opacity = '0.5';
+            
+            setTimeout(() => {
+                // Flash 2 - colore acido
+                body.style.filter = 'brightness(1.5) contrast(2) saturate(3) hue-rotate(180deg)';
+                if (overlay) overlay.style.opacity = '0.3';
+                
+                setTimeout(() => {
+                    // Flash 3 - finale con distorsione
+                    body.style.filter = 'brightness(1.8) contrast(1.8) saturate(2) hue-rotate(90deg)';
+                    if (overlay) overlay.style.opacity = '0.2';
+                    
+                    setTimeout(() => {
+                        // Ritorno normale
+                        body.style.transition = 'filter 0.5s';
+                        body.style.filter = '';
+                        if (overlay) overlay.style.opacity = '0.05';
+                        flashInProgress = false;
+                    }, 80);
+                }, 80);
+            }, 80);
+        }
+        
+        // Create parallax shapes
+        function createParallaxShapes() {
+            const layers = [1, 2, 3, 4];
+            const shapes = ['circle', 'square', 'triangle'];
+            
+            layers.forEach(layerNum => {
+                const layer = document.getElementById(`parallax${layerNum}`);
+                if (!layer) return;
+                
+                // Clear existing shapes
+                layer.innerHTML = '';
+                
+                // Create random shapes for this layer
+                const numShapes = 5 + layerNum * 2;
+                for (let i = 0; i < numShapes; i++) {
+                    const shape = document.createElement('div');
+                    const shapeType = shapes[Math.floor(Math.random() * shapes.length)];
+                    shape.className = `parallax-shape shape-${shapeType}`;
+                    
+                    const size = 20 + Math.random() * 80;
+                    shape.style.width = size + 'px';
+                    shape.style.height = size + 'px';
+                    shape.style.left = Math.random() * 100 + '%';
+                    shape.style.top = Math.random() * 100 + '%';
+                    shape.style.animationDuration = (Math.random() * 5 + 3) + 's';
+                    shape.style.animationDelay = Math.random() * 2 + 's';
+                    shape.style.animation = 'float ' + (Math.random() * 5 + 3) + 's infinite ease-in-out';
+                    
+                    // Different opacity for different layers (depth)
+                    shape.style.opacity = 0.15 - (layerNum * 0.02);
+                    shape.style.filter = `blur(${layerNum * 2}px)`;
+                    
+                    layer.appendChild(shape);
+                }
+            });
+        }
+        createParallaxShapes();
+        
+        // Regenerate shapes periodically
+        setInterval(createParallaxShapes, 25000);
+        
+        // Device orientation for mobile (gyroscope parallax)
+        if (window.DeviceOrientationEvent) {
+            window.addEventListener('deviceorientation', (e) => {
+                const tiltX = e.gamma; // -90 to 90
+                const tiltY = e.beta;  // -180 to 180
+                
+                if (tiltX !== null && tiltY !== null) {
+                    const moveX = (tiltX / 90);
+                    const moveY = (tiltY / 180);
+                    
+                    const layer1 = document.getElementById('parallax1');
+                    const layer2 = document.getElementById('parallax2');
+                    const layer3 = document.getElementById('parallax3');
+                    const layer4 = document.getElementById('parallax4');
+                    
+                    if (layer1) layer1.style.transform = `translate(${moveX * 40}px, ${moveY * 40}px)`;
+                    if (layer2) layer2.style.transform = `translate(${moveX * 25}px, ${moveY * 25}px)`;
+                    if (layer3) layer3.style.transform = `translate(${moveX * 15}px, ${moveY * 15}px)`;
+                    if (layer4) layer4.style.transform = `translate(${moveX * 8}px, ${moveY * 8}px)`;
+                }
+            });
+        }
+        
+        // Shuffle array for randomness
+        function shuffle(array) {
+            const arr = [...array];
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+            return arr;
+        }
+
+        // Create particles
+        function createParticles() {
+            const container = document.getElementById('particles');
+            for (let i = 0; i < 50; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.top = Math.random() * 100 + '%';
+                particle.style.animationDuration = (Math.random() * 3 + 2) + 's';
+                particle.style.animationDelay = Math.random() * 2 + 's';
+                container.appendChild(particle);
+            }
+        }
+        createParticles();
+
+        // Randomly regenerate particles
+        setInterval(() => {
+            document.getElementById('particles').innerHTML = '';
+            createParticles();
+        }, 15000);
+
+        // Audio visualizer (fake)
+        function createVisualizer() {
+            const visualizer = document.getElementById('audio-visualizer');
+            for (let i = 0; i < 50; i++) {
+                const bar = document.createElement('div');
+                bar.className = 'frequency-bar';
+                bar.style.animationDelay = Math.random() * 0.5 + 's';
+                bar.style.animationDuration = (Math.random() * 0.3 + 0.2) + 's';
+                visualizer.appendChild(bar);
+            }
+        }
+        createVisualizer();
+
+        // Regenerate visualizer
+        setInterval(() => {
+            document.getElementById('audio-visualizer').innerHTML = '';
+            createVisualizer();
+        }, 5000);
+
+        // Glitch title randomly
+        const title = document.getElementById('main-title');
+        const originalTitle = title.innerHTML;
+        const glitchChars = ['█', '▓', '▒', '░', '∃', '⟐', '◊', '◈', '⊗', '⊕', '◉'];
+        
+        function glitchTitle() {
+            if (Math.random() < 0.1) {
+                const chars = originalTitle.split('');
+                const glitched = chars.map(c => Math.random() < 0.3 ? glitchChars[Math.floor(Math.random() * glitchChars.length)] : c).join('');
+                title.innerHTML = glitched;
+                setTimeout(() => { title.innerHTML = originalTitle; }, 100);
+            }
+        }
+        setInterval(glitchTitle, 500);
+
+        // Mouse trail effect
+        document.addEventListener('mousemove', (e) => {
+            if (Math.random() < 0.3) {
+                const trail = document.createElement('div');
+                trail.className = 'trail';
+                trail.style.left = e.clientX + 'px';
+                trail.style.top = e.clientY + 'px';
+                document.body.appendChild(trail);
+                setTimeout(() => trail.remove(), 500);
+            }
+        });
+
+        // Random color shifts
+        const colors = ['#00ff00', '#ff00ff', '#00ffff', '#ffff00', '#ff0000', '#0000ff', '#ccff00'];
+        function randomColorShift() {
+            const root = document.documentElement;
+            const randomColor = colors[Math.floor(Math.random() * colors.length)];
+            root.style.setProperty('--accent-color', randomColor);
+        }
+        setInterval(randomColorShift, 5000);
+
+        // Random channel position shift
+        function shakeChannels() {
+            const links = document.querySelectorAll('.floating-links a');
+            links.forEach(link => {
+                if (Math.random() < 0.2) {
+                    const currentTransform = link.style.transform || '';
+                    link.style.transform = currentTransform + ` translate(${Math.random() * 4 - 2}px, ${Math.random() * 4 - 2}px)`;
+                    setTimeout(() => {
+                        link.style.transform = currentTransform;
+                    }, 100);
+                }
+            });
+        }
+        setInterval(shakeChannels, 1000);
+
+        // Logo rotation on click
+        const logo = document.getElementById('logo');
+        logo.addEventListener('click', (e) => {
+            e.preventDefault();
+            logo.style.transform = `rotate(${Math.random() * 720 - 360}deg) scale(${Math.random() * 0.5 + 0.75})`;
+            setTimeout(() => {
+                window.open('https://t.me/streamingteknival', '_blank');
+            }, 500);
+        });
+
+        // Random VHS distortion
+        function vhsDistortion() {
+            const overlay = document.querySelector('.glitch-overlay');
+            if (Math.random() < 0.1) {
+                overlay.style.opacity = Math.random() * 0.3;
+                overlay.style.transform = `scaleX(${Math.random() * 0.1 + 0.95}) translateX(${Math.random() * 10 - 5}px)`;
+                setTimeout(() => {
+                    overlay.style.opacity = '0.05';
+                    overlay.style.transform = '';
+                }, 100);
+            }
+        }
+        setInterval(vhsDistortion, 800);
+
+        // Keyboard interaction
+        document.addEventListener('keydown', (e) => {
+            if (e.key === ' ') {
+                e.preventDefault();
+                distributeChannels();
+            }
+            if (e.key.toLowerCase() === 'g') {
+                document.body.style.filter = `hue-rotate(${Math.random() * 360}deg)`;
+                setTimeout(() => { document.body.style.filter = ''; }, 200);
+            }
+        });
+
+        // Random element highlight
+        function randomHighlight() {
+            const links = document.querySelectorAll('.floating-links a');
+            const randomLink = links[Math.floor(Math.random() * links.length)];
+            if (randomLink) {
+                randomLink.style.boxShadow = `0 0 20px ${colors[Math.floor(Math.random() * colors.length)]}`;
+                setTimeout(() => {
+                    randomLink.style.boxShadow = '';
+                }, 500);
+            }
+        }
+        setInterval(randomHighlight, 2000);
+
+        // Console easter egg
+        console.log('%c♪♫ W∃BT∃K ⟐ TEKNIVAL ♫♪', 'font-size: 20px; color: #ccff00; text-shadow: 0 0 10px #ccff00;');
+        console.log('%c>> UNDERGROUND FREETEKNO SINCE 2010 <<', 'color: #00ffff; font-weight: bold;');
+    </script>
 </body>
 </html>

@@ -10,235 +10,78 @@
     <meta property="og:description" content="Join WebTeK for live streaming sessions with global artists in the tekno and underground scene.">
     <meta property="og:url" content="https://webtek.live">
     <meta property="og:image" content="https://webtek.live/fb_prof.png">
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    
     <title>WebTeK - Streaming Teknival</title>
-    <style>
-        body {
-            font-family: 'Pixelify Sans', sans-serif;
-            background-color: #000;
-            color: #fff;
-            margin: 0;
-            padding: 0;
-            transition: background 3s ease-in-out, color 3s ease-in-out;
-        }
-
-        /* Keyframes for hallucination-like color transition 
-        @keyframes hallucination {
-            0% { background-color: #000; color: #fff; }
-            25% { background-color: #ff00ff; color: #00ff00; }
-            50% { background-color: #0000ff; color: #ffff00; }
-            75% { background-color: #00ffff; color: #ff0000; }
-            100% { background-color: #000; color: #fff; }
-        }
-        */
-
-        header {
-            background-color: #111;
-            text-align: center;
-            border-bottom: 2px solid #FFFF00;
-        }
-
-        header .logo img {
-            max-width: 150px;
-            border-radius: 50%;
-        }
-
-        nav ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        nav ul li {
-            display: inline-block;
-            margin: 10px;
-        }
-
-        nav ul li a {
-            color: #FFFF00;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        .hero {
-            text-align: center;
-            padding: 50px 20px;
-        }
-
-        .hero h1 {
-            font-size: 3rem;
-            margin: 0;
-            color: #FFFF00;
-            text-shadow: 2px 2px 4px #000;
-        }
-
-        .hero p {
-            font-size: 1.5rem;
-            color: #FFFF00;
-            text-shadow: 1px 1px 3px #000;
-        }
-
-        /* Logo and yellow circle mask */
-        .logo {
-            position: relative;
-            display: inline-block;
-        }
-
-        .logo a {
-            position: relative;
-            z-index: 2;
-        }
-
-        .logo a img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-
-        .logo::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 180px;
-            height: 180px;
-            background-color: #FFFF00;
-            border-radius: 50%;
-            transform: translate(-50%, -50%);
-            z-index: 1;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
-        }
-
-        .channels {
-            text-align: center;
-            padding: 40px 20px;
-            background-color: #111;
-        }
-
-        .channels h2 {
-            font-size: 2.5rem;
-            color: #FFFF00;
-            text-shadow: 2px 2px 4px #000;
-        }
-
-        .channel-list a {
-            display: block;
-            color: #FFFF00;
-            margin: 10px 0;
-            text-decoration: none;
-            font-size: x-large;
-        }
-
-        .channel-list a:hover {
-            text-decoration: underline;
-        }
-
-        footer {
-            background-color: #111;
-            text-align: center;
-            padding: 20px;
-            font-size: 0.9rem;
-            color: #FFFF00;
-            border-top: 2px solid #FFFF00;
-        }
-
-        footer a {
-            color: #FFFF00;
-            text-decoration: none;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
-        }
-
-        @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 2.5rem;
-            }
-            .hero p {
-                font-size: 1.2rem;
-            }
-            .channels h2 {
-                font-size: 2rem;
-            }
-        }
-    </style>
 </head>
 <body>
 
-    <header>
-    </header>
-
-    <main>
-        <section class="hero">
-            <h1>WebTeK Streaming Teknival</h1>
-            <p>Since 2010 the most popular underground free tekno streaming teknival out there :)</p>
-            <p><i>Open to all artists, collectives, aliens and hackers!</i></p>
-            <br>
-            <div class="logo">
-                <a class="btn" href="https://t.me/streamingteknival" target="_blank" rel="noopener">
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <a href="https://t.me/streamingteknival" target="_blank" rel="noopener">
                     <img src="webtek_logo.png" alt="WebTeK Logo">
                 </a>
             </div>
-            <br>
-        </section>
-
-        <section class="channels">
-            <h2>Featured Channels</h2>
-            <div class="channel-list">
-                <a href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FreakBeats TeknoRadio</a>
-                <a href="https://webtek.live/fr/" target="_blank" rel="noopener">Fanat3k Radio</a>
-                <a href="https://radio.free-tekno.com/" target="_blank" rel="noopener">Free Underground Tekno</a>
-                <a href="https://www.facebook.com/happyfacefamily.eu/" target="_blank" rel="noopener">HappyFaceFamily</a>
-                <a href="https://www.facebook.com/BPMresistance/" target="_blank" rel="noopener">BPM Resistance</a>
-                <a href="http://www.undergroundradiomix.com/" target="_blank" rel="noopener">UndergroundRadioMix</a>
-                <a href="https://www.twitch.tv/isdcrew" target="_blank" rel="noopener">ISD Crew</a>
-                <a href="https://www.facebook.com/MKN-BRIGADE-127977930016/" target="_blank" rel="noopener">MKN Brigade</a>
-                <a href="https://www.facebook.com/HESED.ATM/" target="_blank" rel="noopener">Hesed</a>
-                <a href="https://www.facebook.com/HAZARD-UNITZ-100108373414153/" target="_blank" rel="noopener">Hazard Unitz</a>
-                <a href="https://www.facebook.com/Coroakrotek/" target="_blank" rel="noopener">Coroakrotek</a>
-                <a href="https://www.facebook.com/tekniweb1.0/" target="_blank" rel="noopener">Tekniweb 1.0</a>
-                <a href="https://www.facebook.com/groups/435527993882117" target="_blank" rel="noopener">D'Gen-T Underground Sound</a>
-                <a href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FTBR</a>
-                <a href="https://www.facebook.com/Under-Rave-Network-103468938014224/" target="_blank" rel="noopener">Under Rave Network</a>
-                <a href="https://www.facebook.com/wacky23/" target="_blank" rel="noopener">Wacky 23</a>
-                <a href="https://www.facebook.com/freetekno.lt/" target="_blank" rel="noopener">freetekno.lt</a>
-                <a href="https://www.facebook.com/spaceinvaderstekno/" target="_blank" rel="noopener">Space Invaders Tekno Sound</a>
-                <a href="https://www.facebook.com/PTK-sound-system-110685279011336/" target="_blank" rel="noopener">PTK Sound System</a>
-                <a href="https://www.facebook.com/MetalSlug.SoundSystem/" target="_blank" rel="noopener">Metal Slug</a>
-                <a href="https://www.facebook.com/shockraver23/" target="_blank" rel="noopener">Shockraver</a>
-                <a href="https://www.facebook.com/xmuteTheSlackers/" target="_blank" rel="noopener">XMute</a>
-                <a href="https://www.facebook.com/FreeZik.Radio/" target="_blank" rel="noopener">FreeZik</a>
-                <a href="https://www.facebook.com/BlackDropSound/" target="_blank" rel="noopener">BlackDrop SoundSystem</a>
-                <a href="https://www.facebook.com/HardCoreHeroesPirate/" target="_blank" rel="noopener">HardCore Heroes Pirate Crew</a>
-                <a href="https://www.facebook.com/alienkml/" target="_blank" rel="noopener">Alien KML</a>
-                <a href="https://www.facebook.com/LunaticSoundDD/" target="_blank" rel="noopener">LSD Lunatic Sound Dresden</a>
-                <a href="https://www.facebook.com/NBK-Abusive-Sound-System-1739790966232263" target="_blank" rel="noopener">NBK "Abusive Sound System"</a>
-                <a href="https://www.facebook.com/familytek" target="_blank" rel="noopener">Familytek Crew</a>
-                <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">More Info</a>
+            <div class="header-text">
+                <h1>WebTeK <br><span class="highlight">Streaming Teknival</span></h1>
+                <p class="subtitle">Since 2010 the most popular underground free tekno streaming teknival out there :)</p>
+                <p style="color: #666; font-size: 0.9em;"><i>// Open to all artists, collectives, aliens and hackers! //</i></p>
             </div>
-        </section>
-    </main>
+        </header>
 
-    <footer>
-         <nav>
-            <ul>
-                <li><a href="https://t.me/streamingteknival" target="_blank" rel="noopener" style="font-size: larger;">Telegram</a></li>
-                <li><a href="https://www.facebook.com/Worldwide.Streaming.Teknival/" target="_blank" rel="noopener" style="font-size: larger;">Facebook</a></li>
-                <li><a href="https://www.reddit.com/r/WebTek/" target="_blank" rel="noopener" style="font-size: larger;">Reddit</a></li>
-            </ul>
-        </nav>
-        <p>copyleft 2010-2024 WebTeK Streaming Teknival and friends | <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">More Info</a></p>
-    </footer>
+        <main>
+            <section class="channels">
+                <h2 class="section-title">>> Featured Channels</h2>
+                <div class="channel-grid">
+                    <a class="channel-link" href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FreakBeats TeknoRadio</a>
+                    <a class="channel-link" href="https://webtek.live/fr/" target="_blank" rel="noopener">Fanat3k Radio</a>
+                    <a class="channel-link" href="https://radio.free-tekno.com/" target="_blank" rel="noopener">Free Underground Tekno</a>
+                    <a class="channel-link" href="https://www.facebook.com/happyfacefamily.eu/" target="_blank" rel="noopener">HappyFaceFamily</a>
+                    <a class="channel-link" href="https://www.facebook.com/BPMresistance/" target="_blank" rel="noopener">BPM Resistance</a>
+                    <a class="channel-link" href="http://www.undergroundradiomix.com/" target="_blank" rel="noopener">UndergroundRadioMix</a>
+                    <a class="channel-link" href="https://www.twitch.tv/isdcrew" target="_blank" rel="noopener">ISD Crew</a>
+                    <a class="channel-link" href="https://www.facebook.com/MKN-BRIGADE-127977930016/" target="_blank" rel="noopener">MKN Brigade</a>
+                    <a class="channel-link" href="https://www.facebook.com/HESED.ATM/" target="_blank" rel="noopener">Hesed</a>
+                    <a class="channel-link" href="https://www.facebook.com/HAZARD-UNITZ-100108373414153/" target="_blank" rel="noopener">Hazard Unitz</a>
+                    <a class="channel-link" href="https://www.facebook.com/Coroakrotek/" target="_blank" rel="noopener">Coroakrotek</a>
+                    <a class="channel-link" href="https://www.facebook.com/tekniweb1.0/" target="_blank" rel="noopener">Tekniweb 1.0</a>
+                    <a class="channel-link" href="https://www.facebook.com/groups/435527993882117" target="_blank" rel="noopener">D'Gen-T Underground Sound</a>
+                    <a class="channel-link" href="https://www.facebook.com/freaks23/" target="_blank" rel="noopener">FTBR</a>
+                    <a class="channel-link" href="https://www.facebook.com/Under-Rave-Network-103468938014224/" target="_blank" rel="noopener">Under Rave Network</a>
+                    <a class="channel-link" href="https://www.facebook.com/wacky23/" target="_blank" rel="noopener">Wacky 23</a>
+                    <a class="channel-link" href="https://www.facebook.com/freetekno.lt/" target="_blank" rel="noopener">freetekno.lt</a>
+                    <a class="channel-link" href="https://www.facebook.com/spaceinvaderstekno/" target="_blank" rel="noopener">Space Invaders Tekno Sound</a>
+                    <a class="channel-link" href="https://www.facebook.com/PTK-sound-system-110685279011336/" target="_blank" rel="noopener">PTK Sound System</a>
+                    <a class="channel-link" href="https://www.facebook.com/MetalSlug.SoundSystem/" target="_blank" rel="noopener">Metal Slug</a>
+                    <a class="channel-link" href="https://www.facebook.com/shockraver23/" target="_blank" rel="noopener">Shockraver</a>
+                    <a class="channel-link" href="https://www.facebook.com/xmuteTheSlackers/" target="_blank" rel="noopener">XMute</a>
+                    <a class="channel-link" href="https://www.facebook.com/FreeZik.Radio/" target="_blank" rel="noopener">FreeZik</a>
+                    <a class="channel-link" href="https://www.facebook.com/BlackDropSound/" target="_blank" rel="noopener">BlackDrop SoundSystem</a>
+                    <a class="channel-link" href="https://www.facebook.com/HardCoreHeroesPirate/" target="_blank" rel="noopener">HardCore Heroes Pirate Crew</a>
+                    <a class="channel-link" href="https://www.facebook.com/alienkml/" target="_blank" rel="noopener">Alien KML</a>
+                    <a class="channel-link" href="https://www.facebook.com/LunaticSoundDD/" target="_blank" rel="noopener">LSD Lunatic Sound Dresden</a>
+                    <a class="channel-link" href="https://www.facebook.com/NBK-Abusive-Sound-System-1739790966232263" target="_blank" rel="noopener">NBK "Abusive Sound System"</a>
+                    <a class="channel-link" href="https://www.facebook.com/familytek" target="_blank" rel="noopener">Familytek Crew</a>
+                    <a class="channel-link" href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">>> More Info</a>
+                </div>
+            </section>
+        </main>
 
-    <!-- JavaScript for Smooth Hallucination-Like Color Transition -->
-    <script>
-        function hallucinationColors() {
-            document.body.style.animation = "hallucination 10s infinite";
-        }
-        hallucinationColors();
-    </script>
+        <footer>
+             <nav>
+                <ul>
+                    <li><a href="https://t.me/streamingteknival" target="_blank" rel="noopener">Telegram</a></li>
+                    <li><a href="https://www.facebook.com/Worldwide.Streaming.Teknival/" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://www.reddit.com/r/WebTek/" target="_blank" rel="noopener">Reddit</a></li>
+                </ul>
+            </nav>
+            <p>copyleft 2010-2024 WebTeK Streaming Teknival and friends <br> <a href="https://github.com/fabriziosalmi/webtek/blob/master/README.md" target="_blank" rel="noopener">github repo</a></p>
+        </footer>
+    </div>
 </body>
 </html>

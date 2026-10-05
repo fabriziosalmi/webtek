@@ -13,15 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - name: AGSSH scan (report mode — does not gate yet)
+      - name: AGSSH scan (report mode, does not gate yet)
         id: agssh
         continue-on-error: true
-        uses: fabriziosalmi/agssh@v1
+        # Fissata per SHA come gli altri due action di questo file: `v1` e' un
+        # tag mobile, e il punto di agssh e' proprio non fidarsi della deriva
+        # della catena di fornitura. afa1d046 e' dove v1 punta oggi
+        # (28/08/2026), piu' recente di v1.2.2.
+        uses: fabriziosalmi/agssh@afa1d046b35f03aca79e4b521c3d8c77b2161a86 # v1
         with:
           config: .airgap.yml
           badge: agssh-badge.svg
       - name: Verdict
         run: echo "conformant=${{ steps.agssh.outputs.conformant }} report=${{ steps.agssh.outputs.report }}"
+      # L'artefatto serve a leggere il referto di un run, non e' un badge
+      # pubblico: gli artefatti non hanno un URL stabile e anonimo. Se un
+      # giorno il badge dovra' finire nel README, andra' pubblicato su una
+      # pagina, non lasciato qui.
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: agssh-conformance

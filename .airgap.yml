@@ -1,0 +1,27 @@
+# .airgap.yml — AGSSH-STD-001 conformance declaration for https://webtek.live/
+target_profile: Silver
+level: L0
+
+surfaces:
+  - url: https://webtek.live/
+    kind: site
+    stateless: true
+
+backend: github-pages
+
+dns:
+  zone: webtek.live
+
+pipeline:
+  enforce_ci_rules: false
+
+allow:
+  connect:      []
+  storage:      []
+  embeds:       []
+  subresources: []
+
+waivers:
+  budget: { max_count: 3, max_weight: 6, max_window_days: 30 }
+
+deviations: []
